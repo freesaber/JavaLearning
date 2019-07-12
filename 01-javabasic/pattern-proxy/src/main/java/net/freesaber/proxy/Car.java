@@ -6,6 +6,7 @@ public class Car implements Moveable {
     public Car() {
     }
 
+    @Override
     public void move() {
         try {
             System.out.println("汽车行驶中...");

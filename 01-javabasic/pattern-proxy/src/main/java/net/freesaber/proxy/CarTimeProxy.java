@@ -8,6 +8,7 @@ public class CarTimeProxy implements Moveable {
         this.m = m;
     }
 
+    @Override
     public void move() {
         long starttime = System.currentTimeMillis();
         System.out.println("汽车开始行驶...");

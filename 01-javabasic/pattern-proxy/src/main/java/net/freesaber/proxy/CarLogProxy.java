@@ -8,6 +8,7 @@ public class CarLogProxy implements Moveable{
         this.m = m;
     }
 
+    @Override
     public void move() {
         System.out.println("日志开始...");
 
