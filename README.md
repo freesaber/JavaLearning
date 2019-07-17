@@ -16,8 +16,8 @@ spring、struts、hiberate
 ##05-ssm
 spring、spring mvc、mybatis
 
-##06-sb
+##06-springboot
 netty、spring boot、微服务等
 
-##07-k8s
-k8s等
+##07-etc
+其他
