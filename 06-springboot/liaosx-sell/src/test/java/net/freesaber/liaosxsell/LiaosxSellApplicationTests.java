@@ -1,4 +1,4 @@
-package net.freesaber.sell;
+package net.freesaber.liaosxsell;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SellApplicationTests {
+public class LiaosxSellApplicationTests {
 
     @Test
     public void contextLoads() {

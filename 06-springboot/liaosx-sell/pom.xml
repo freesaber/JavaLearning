@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>net.freesaber</groupId>
-    <artifactId>sell</artifactId>
+    <artifactId>liaosx-sell</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sell</name>
-    <description>慕课网 - SpringBoot打造企业级微信点餐系统</description>
+    <name>liaosx-sell</name>
+    <description>廖师兄-Spring Boot打造企业级微信点餐系统</description>
 
     <properties>
         <java.version>1.8</java.version>
@@ -21,7 +21,7 @@
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter</artifactId>
+            <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
         <dependency>
