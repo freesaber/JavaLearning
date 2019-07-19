@@ -1,13 +1,13 @@
-package net.freesaber.liaosxsell;
+package net.freesaber.luckymoney;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LiaosxSellApplication {
+public class LuckymoneyApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(LiaosxSellApplication.class, args);
+        SpringApplication.run(LuckymoneyApplication.class, args);
     }
 
 }
