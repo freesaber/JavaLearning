@@ -1,0 +1,15 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /sell
+
+spring:
+  datasource:
+    driver-class-name:  com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/sell?useUnicode=true&characterEncoding=utf8&autoReconnect=true&serverTimezone=GMT%2B8&useSSL=false
+    username: root
+    password: passok
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
