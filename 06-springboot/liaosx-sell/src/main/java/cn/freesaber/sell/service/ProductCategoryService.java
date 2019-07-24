@@ -1,6 +1,6 @@
 package cn.freesaber.sell.service;
 
-import cn.freesaber.sell.domain.ProductCategory;
+import cn.freesaber.sell.dataobject.ProductCategory;
 
 import java.util.List;
 

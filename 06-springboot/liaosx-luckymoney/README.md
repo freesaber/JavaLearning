@@ -7,5 +7,5 @@
 贯穿微服务必学框架-SpringBoot相关内容，将初学SpringBoot的踩坑点进行指点，
 为同学打造麻雀虽小五脏俱全的课程。
 
-地址 [https://coding.imooc.com/class/328.html](https://coding.imooc.com/class/328.html)
+课程地址 [https://coding.imooc.com/class/328.html](https://coding.imooc.com/class/328.html)
 

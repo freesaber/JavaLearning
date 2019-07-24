@@ -1,6 +1,6 @@
 package cn.freesaber.sell.service.impl;
 
-import cn.freesaber.sell.domain.ProductCategory;
+import cn.freesaber.sell.dataobject.ProductCategory;
 import cn.freesaber.sell.repository.ProductCategoryRepository;
 import cn.freesaber.sell.service.ProductCategoryService;
 import org.springframework.beans.factory.annotation.Autowired;

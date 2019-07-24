@@ -6,7 +6,7 @@ SpringBoot是你不得不学之框架，微信点餐系统将带你体验敏捷�
 让你更具备互联网工程师的气质，
 带你一步步设计并开发一个企业级Java应用
 
-地址：[https://coding.imooc.com/class/117.html](https://coding.imooc.com/class/117.html)
+课程地址：[https://coding.imooc.com/class/117.html](https://coding.imooc.com/class/117.html)
 
 
 

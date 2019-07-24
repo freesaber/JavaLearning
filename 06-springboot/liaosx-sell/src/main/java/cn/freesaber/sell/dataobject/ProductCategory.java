@@ -1,4 +1,4 @@
-package cn.freesaber.sell.domain;
+package cn.freesaber.sell.dataobject;
 
 import lombok.Data;
 import org.hibernate.annotations.DynamicUpdate;
