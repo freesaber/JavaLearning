@@ -5,10 +5,10 @@ server:
 
 spring:
   datasource:
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://127.0.0.1:3306/sell?useUnicode=true&characterEncoding=utf8&autoReconnect=true&serverTimezone=GMT%2B8&useSSL=false
+    driver-class-name:  com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://172.17.0.7:3306/sell?useUnicode=true&characterEncoding=utf8&autoReconnect=true&serverTimezone=GMT%2B8&useSSL=false
     username: root
-    password: passok
+    password: 123@abc
   jpa:
     hibernate:
       ddl-auto: update

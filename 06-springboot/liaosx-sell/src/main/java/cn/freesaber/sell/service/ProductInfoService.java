@@ -1,6 +1,7 @@
 package cn.freesaber.sell.service;
 
 import cn.freesaber.sell.dataobject.ProductInfo;
+import cn.freesaber.sell.dto.CartDTO;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 
@@ -26,7 +27,8 @@ public interface ProductInfoService {
     Page<ProductInfo> findAll(Pageable pageable);
 
     /** 加库存 */
+    void increaseStock(List<CartDTO> cartDTOList);
 
     /** 减库存 */
-
+    void decreaseStock(List<CartDTO> cartDTOList);
 }
