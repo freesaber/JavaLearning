@@ -1,7 +1,7 @@
 server:
   port: 8080
-#  servlet:
-#    context-path: /sell
+  servlet:
+    context-path: /sell
 
 spring:
   datasource:

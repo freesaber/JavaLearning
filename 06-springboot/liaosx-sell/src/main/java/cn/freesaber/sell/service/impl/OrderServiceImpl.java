@@ -13,6 +13,7 @@ import cn.freesaber.sell.exception.SellException;
 import cn.freesaber.sell.repository.OrderDetailRepository;
 import cn.freesaber.sell.repository.OrderMasterRepository;
 import cn.freesaber.sell.service.OrderService;
+import cn.freesaber.sell.service.PayService;
 import cn.freesaber.sell.service.ProductInfoService;
 import lombok.extern.slf4j.Slf4j;
 import org.slf4j.Logger;
@@ -28,6 +29,7 @@ import org.springframework.util.CollectionUtils;
 
 import java.math.BigDecimal;
 import java.util.List;
+import java.util.Optional;
 import java.util.UUID;
 import java.util.stream.Collectors;
 
@@ -42,6 +44,9 @@ public class OrderServiceImpl implements OrderService {
 
     @Autowired
     private OrderDetailRepository orderDetailRepository;
+
+    @Autowired
+    private PayService payService;
 
     @Override
     @Transactional
@@ -89,10 +94,11 @@ public class OrderServiceImpl implements OrderService {
 
     @Override
     public OrderDTO findOne(String orderId) {
-        OrderMaster orderMaster = orderMasterRepository.findById(orderId).get();
-        if (orderMaster == null) {
+        Optional<OrderMaster> optionalT = orderMasterRepository.findById(orderId);
+        if (!optionalT.isPresent()) {
             throw new SellException(ResultEnum.ORDER_NOT_EXIST);
         }
+        OrderMaster orderMaster = optionalT.get();
         List<OrderDetail> orderDetailList = orderDetailRepository.findByOrderId(orderId);
         if (CollectionUtils.isEmpty(orderDetailList)) {
             throw new SellException(ResultEnum.ORDERDETALI_NOT_EXIST);
@@ -106,6 +112,14 @@ public class OrderServiceImpl implements OrderService {
     @Override
     public Page<OrderDTO> findList(String buyerOpenid, Pageable pageable) {
         Page<OrderMaster> orderMasterPage = orderMasterRepository.findByBuyerOpenid(buyerOpenid, pageable);
+        List<OrderDTO> orderDTOList = OrderMaster2OrderDTOConverter.convert(orderMasterPage.getContent());
+        Page<OrderDTO> orderDTOPage = new PageImpl<>(orderDTOList, pageable, orderMasterPage.getTotalElements());
+        return orderDTOPage;
+    }
+
+    @Override
+    public Page<OrderDTO> findList(Pageable pageable) {
+        Page<OrderMaster> orderMasterPage = orderMasterRepository.findAll(pageable);
         List<OrderDTO> orderDTOList = OrderMaster2OrderDTOConverter.convert(orderMasterPage.getContent());
         Page<OrderDTO> orderDTOPage = new PageImpl<>(orderDTOList, pageable, orderMasterPage.getTotalElements());
         return orderDTOPage;
@@ -145,7 +159,7 @@ public class OrderServiceImpl implements OrderService {
 
         // 如果已支付，需要退款
         if (orderMaster.getPayStatus() == PayStatusEnum.SUCCESS.getCode()) {
-            //TODO
+            payService.refund(orderDTO);
         }
         return findOne(orderDTO.getOrderId());
     }

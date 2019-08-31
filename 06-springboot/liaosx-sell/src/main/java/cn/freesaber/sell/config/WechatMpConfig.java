@@ -13,6 +13,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class WechatMpConfig {
     private Logger logger = LoggerFactory.getLogger(WechatMpConfig.class);
+
     @Autowired
     private WechatAccountConfig accountConfig;
 
@@ -26,12 +27,8 @@ public class WechatMpConfig {
     @Bean
     public WxMpConfigStorage wxMpConfigStorage(){
         WxMpDefaultConfigImpl wxMpDefaultConfig = new WxMpDefaultConfigImpl();
-        logger.info("appid:{}",accountConfig.getMpAppId());
-        logger.info("appsecret:{}",accountConfig.getMpAppSecret());
         wxMpDefaultConfig.setAppId(accountConfig.getMpAppId());// 设置微信公众号的appid
         wxMpDefaultConfig.setSecret(accountConfig.getMpAppSecret());// 设置微信公众号的app corpSecret
-        wxMpDefaultConfig.setToken(""); // 设置微信公众号的token
-        wxMpDefaultConfig.setAesKey(""); // 设置微信公众号的EncodingAESKey
         return wxMpDefaultConfig;
     }
 }

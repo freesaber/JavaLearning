@@ -12,34 +12,32 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
+import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
 
 @Controller
-//@RequestMapping("/wechat")
+@RequestMapping("/wechat")
 public class WechatController {
     private final Logger logger = LoggerFactory.getLogger(WechatController.class);
 
     @Autowired
-    private WxMpService wxMpService; // 1.配置
+    private WxMpService wxMpService; // 配置
 
-    @GetMapping("/")
-    @ResponseBody
-    public String index(@RequestParam("echostr") String echostr){
-        logger.info("echostr:{}",echostr);
-        return  echostr;
-    }
-
-    @GetMapping("/wechat/authorize")
-    public String authorize(@RequestParam("returnUrl") String returnUrl) {
-        //2. 调用方法
-        String url = "http://freesaber.natapp1.cc/wechat/userInfo";
-        String redirectUrl = wxMpService.oauth2buildAuthorizationUrl(url, WxConsts.OAuth2Scope.SNSAPI_BASE, null);
+    // 1.微信中给用户发送一个链接http://xxxxx.com/sell/wechat/authorize?returnUrl=http://xxxxx.com/sell
+    // 2.用户点击链接后，会进入到下面的authorize
+    @GetMapping("/authorize")
+    public String authorize(@RequestParam("returnUrl") String returnUrl) throws UnsupportedEncodingException {
+        String url = "http://freesaber.natapp1.cc/sell/wechat/userInfo";
+        String redirectUrl = wxMpService.oauth2buildAuthorizationUrl(url, WxConsts.OAuth2Scope.SNSAPI_BASE, URLEncoder.encode(returnUrl, "UTF-8"));
         logger.info("【微信网页授权url】{}", redirectUrl);
 
+        // 3.authorize方法构建一个微信授权redirectUrl，重定向到微信服务器接口
+        // 4.微信接口在接受请求后，获取点击操作的用户，将用户信息放入code，将接受参数放入state，然后重定向到url地址
         return "redirect:" + redirectUrl;
     }
 
-    @GetMapping("/wechat/userInfo")
+    // 5.这里就可以拿到用户信息code，以及上面方法传入的参数returnUrl
+    @GetMapping("/userInfo")
     public String userInfo(@RequestParam("code") String code,
                            @RequestParam("state") String returnUrl) {
         WxMpOAuth2AccessToken wxMpOAuth2AccessToken;
@@ -51,6 +49,7 @@ public class WechatController {
         }
 
         String openId = wxMpOAuth2AccessToken.getOpenId();
+        // 6.通过构建一个url进入到我们具体的应用模块页面，带上openid，就能获取访问应用的用户
         return "redirect:" + returnUrl + "?openid=" + openId;
     }
 }

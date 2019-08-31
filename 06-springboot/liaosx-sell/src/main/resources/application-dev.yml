@@ -1,7 +1,7 @@
 server:
   port: 8080
-#  servlet:
-#    context-path: /sell
+  servlet:
+    context-path: /sell
 
 spring:
   datasource:
@@ -15,5 +15,9 @@ spring:
     show-sql: true
 
 wechat:
-  mpAppId: wx84b7bc665de827d4
-  mpAppSecret: 4e0abdb6401752f95c22de205aa7f2b4
+  mpAppId: wx33d635b7420ab51c
+  mpAppSecret: aa418fc4932f29ee839290cca7f7b4ed
+  mchId: 1409146202
+  mchKey: c976503d......
+  keyPath: /var/weixin_cer/h5.p12
+  notifyUrl: http://xxx.com/sell/pay/notify
