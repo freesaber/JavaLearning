@@ -58,4 +58,16 @@ public class ProductInfoServiceImplTest {
         System.out.println("所有元素个数:" + productInfoPage.getTotalElements());
         System.out.println("总页数:" + productInfoPage.getTotalPages());
     }
+
+    @Test
+    public void onSale() {
+        ProductInfo productInfo = productInfoService.onSale("123456");
+        Assert.assertEquals(ProductStatusEnum.UP.getCode(), productInfo.getProductStatus());
+    }
+
+    @Test
+    public void offSale() {
+        ProductInfo productInfo = productInfoService.offSale("123456");
+        Assert.assertEquals(ProductStatusEnum.DOWN.getCode(), productInfo.getProductStatus());
+    }
 }

@@ -14,6 +14,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
+import java.util.Optional;
 
 @Service
 public class ProductInfoServiceImpl implements ProductInfoService {
@@ -27,7 +28,12 @@ public class ProductInfoServiceImpl implements ProductInfoService {
 
     @Override
     public ProductInfo findOne(String productId) {
-        return repository.findById(productId).get();
+        // 查询商品是否存在
+        Optional<ProductInfo> optionalProductInfo = repository.findById(productId);
+        if (!optionalProductInfo.isPresent()) {
+            throw new SellException(ResultEnum.PRODUCT_NOT_EXIST);
+        }
+        return optionalProductInfo.get();
     }
 
     @Override
@@ -69,5 +75,39 @@ public class ProductInfoServiceImpl implements ProductInfoService {
             productInfo.setProductStock(result);
             repository.save(productInfo);
         }
+    }
+
+    /**
+     * 商品上架
+     */
+    @Override
+    public ProductInfo onSale(String productId) {
+        // 查询商品
+        ProductInfo productInfo = findOne(productId);
+        // 判断状态
+        if (productInfo.getProductStatus() == ProductStatusEnum.UP.getCode()) {
+            throw new SellException(ResultEnum.PRODUCT_STATUS_ERROR);
+        }
+        // 修改状态
+        productInfo.setProductStatus(ProductStatusEnum.UP.getCode());
+        // 保存
+        return repository.save(productInfo);
+    }
+
+    /**
+     * 商品下架
+     */
+    @Override
+    public ProductInfo offSale(String productId) {
+        // 查询商品
+        ProductInfo productInfo = findOne(productId);
+        // 判断状态
+        if (productInfo.getProductStatus() == ProductStatusEnum.DOWN.getCode()) {
+            throw new SellException(ResultEnum.PRODUCT_STATUS_ERROR);
+        }
+        // 修改状态
+        productInfo.setProductStatus(ProductStatusEnum.DOWN.getCode());
+        // 保存
+        return repository.save(productInfo);
     }
 }

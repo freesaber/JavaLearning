@@ -26,7 +26,7 @@ public class ProductCategory {
     /**  类目编号 **/
     private Integer categoryType;
 
-    /**  创建世界 **/
+    /**  创建时间 **/
     private Date createTime;
 
     /** 修改时间 **/
