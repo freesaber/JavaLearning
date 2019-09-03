@@ -53,7 +53,7 @@ public class SellerCategoryController {
                              Map<String, Object> map) {
         if (bindingResult.hasErrors()) {
             map.put("msg", bindingResult.getFieldError().getDefaultMessage());
-            map.put("url", "/sell/seller/category/list");
+            map.put("url", "/seller/category/list");
             return new ModelAndView("common/error", map);
         }
 
@@ -68,7 +68,7 @@ public class SellerCategoryController {
         } catch (Exception ex) {
             logger.error("【卖家端添加或修改类目】发生异常");
             map.put("msg", ex.getMessage());
-            map.put("url", "/sell/seller/category/list");
+            map.put("url", "/seller/category/list");
             return new ModelAndView("common/error", map);
         }
         if (form.getCategoryId() != null) {
@@ -76,7 +76,7 @@ public class SellerCategoryController {
         } else {
             map.put("msg", ResultEnum.CATEGORY_UPDATE_SUCCESS.getMessage());
         }
-        map.put("url", "/sell/seller/category/list");
+        map.put("url", "/seller/category/list");
         return new ModelAndView("common/success", map);
     }
 }

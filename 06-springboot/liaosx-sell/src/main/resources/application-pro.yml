@@ -1,8 +1,9 @@
 server:
   port: 8080
-  servlet:
-    context-path: /sell
+#  servlet:
+#    context-path: /sell
 
+# mysql和redis都是docker地址
 spring:
   datasource:
     driver-class-name:  com.mysql.cj.jdbc.Driver
@@ -13,7 +14,23 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: true
+  redis:
+    host: 172.17.0.9
+    port: 6379
 
+#公众账号使用的是测试账号，其他账号没有
 wechat:
-  mpAppId: wx84b7bc665de827d4
-  mpAppSecret: 4e0abdb6401752f95c22de205aa7f2b4
+  mpAppId: wx33d635b7420ab51c
+  mpAppSecret: aa418fc4932f29ee839290cca7f7b4ed
+  openAppId:
+  openAppSecret:
+  mchId: 
+  mchKey: 
+  keyPath: 
+  notifyUrl: 
+
+#此处的域名是生产环境域名
+projectUrlConfig:
+  wechatMpAuthorize: http://liaosxsell.freesaber.cn
+  wechatOpenAuthorize: http://liaosxsell.freesaber.cn
+  sell: http://liaosxsell.freesaber.cn

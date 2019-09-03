@@ -1,8 +1,9 @@
 server:
   port: 8080
-  servlet:
-    context-path: /sell
+#  servlet:
+#    context-path: /sell
 
+# mysql是本地地址，redis是外网地址(根据自己需要改)
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
@@ -13,11 +14,23 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: true
+  redis:
+    host: 120.79.213.144
+    port: 6379
 
+#公众账号使用的是测试账号，其他账号没有
 wechat:
   mpAppId: wx33d635b7420ab51c
   mpAppSecret: aa418fc4932f29ee839290cca7f7b4ed
-  mchId: 1409146202
-  mchKey: c976503d......
-  keyPath: /var/weixin_cer/h5.p12
-  notifyUrl: http://xxx.com/sell/pay/notify
+  openAppId:
+  openAppSecret:
+  mchId:
+  mchKey:
+  keyPath:
+  notifyUrl:
+
+#此处的域名使用的是内网穿透的域名
+projectUrlConfig:
+  wechatMpAuthorize: http://freesaber.natapp1.cc
+  wechatOpenAuthorize: http://freesaber.natapp1.cc
+  sell: http://freesaber.natapp1.cc

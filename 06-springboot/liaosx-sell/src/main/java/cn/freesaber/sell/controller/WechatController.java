@@ -1,5 +1,6 @@
 package cn.freesaber.sell.controller;
 
+import cn.freesaber.sell.config.ProjectUrlConfig;
 import cn.freesaber.sell.enums.ResultEnum;
 import cn.freesaber.sell.exception.SellException;
 import me.chanjar.weixin.common.api.WxConsts;
@@ -23,11 +24,17 @@ public class WechatController {
     @Autowired
     private WxMpService wxMpService; // 配置
 
-    // 1.微信中给用户发送一个链接http://xxxxx.com/sell/wechat/authorize?returnUrl=http://xxxxx.com/sell
+    @Autowired
+    private WxMpService wxOpenService;
+
+    @Autowired
+    private ProjectUrlConfig projectUrlConfig;
+
+    // 1.微信中给用户发送一个链接http://xxxxx.com/wechat/authorize?returnUrl=http://xxxxx.com/
     // 2.用户点击链接后，会进入到下面的authorize
     @GetMapping("/authorize")
     public String authorize(@RequestParam("returnUrl") String returnUrl) throws UnsupportedEncodingException {
-        String url = "http://freesaber.natapp1.cc/sell/wechat/userInfo";
+        String url = projectUrlConfig.getWechatMpAuthorize() + "/wechat/userInfo";
         String redirectUrl = wxMpService.oauth2buildAuthorizationUrl(url, WxConsts.OAuth2Scope.SNSAPI_BASE, URLEncoder.encode(returnUrl, "UTF-8"));
         logger.info("【微信网页授权url】{}", redirectUrl);
 
@@ -51,5 +58,16 @@ public class WechatController {
         String openId = wxMpOAuth2AccessToken.getOpenId();
         // 6.通过构建一个url进入到我们具体的应用模块页面，带上openid，就能获取访问应用的用户
         return "redirect:" + returnUrl + "?openid=" + openId;
+    }
+
+    @GetMapping("qrAuthorize")
+    public String qrAuthorize(@RequestParam("returnUrl") String returnUrl) {
+        return "";
+    }
+
+    @GetMapping("qrUserInfo")
+    public String qrUserInfo(@RequestParam("code") String code,
+                             @RequestParam("state") String returnUrl) {
+        return "";
     }
 }

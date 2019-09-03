@@ -56,12 +56,12 @@ public class SellerProductController {
         try {
             ProductInfo productInfo = productInfoService.onSale(productId);
             map.put("msg", ResultEnum.PRODUCT_UP_SUCCESS.getMessage());
-            map.put("url", "/sell/seller/product/list");
+            map.put("url", "/seller/product/list");
             return new ModelAndView("common/success", map);
         } catch (Exception ex) {
             logger.error("【卖家端商品上架】发生异常");
             map.put("msg", ex.getMessage());
-            map.put("url", "/sell/seller/product/list");
+            map.put("url", "/seller/product/list");
             return new ModelAndView("common/error", map);
         }
     }
@@ -72,12 +72,12 @@ public class SellerProductController {
         try {
             ProductInfo productInfo = productInfoService.offSale(productId);
             map.put("msg", ResultEnum.PRODUCT_DOWN_SUCCESS.getMessage());
-            map.put("url", "/sell/seller/product/list");
+            map.put("url", "/seller/product/list");
             return new ModelAndView("common/success", map);
         } catch (Exception ex) {
             logger.error("【卖家端商品下架】发生异常");
             map.put("msg", ex.getMessage());
-            map.put("url", "/sell/seller/product/list");
+            map.put("url", "/seller/product/list");
             return new ModelAndView("common/error", map);
         }
     }
@@ -105,7 +105,7 @@ public class SellerProductController {
                              Map<String, Object> map) {
         if (bindingResult.hasErrors()) {
             map.put("msg", bindingResult.getFieldError().getDefaultMessage());
-            map.put("url", "/sell/seller/product/list");
+            map.put("url", "/seller/product/list");
             return new ModelAndView("common/error", map);
         }
 
@@ -124,7 +124,7 @@ public class SellerProductController {
         } catch (Exception ex) {
             logger.error("【卖家端添加或修改商品】发生异常");
             map.put("msg", ex.getMessage());
-            map.put("url", "/sell/seller/product/list");
+            map.put("url", "/seller/product/list");
             return new ModelAndView("common/error", map);
         }
         if (StringUtils.isEmpty(form.getProductId())) {
@@ -132,7 +132,7 @@ public class SellerProductController {
         } else {
             map.put("msg", ResultEnum.PRODUCT_UPDATE_SUCCESS.getMessage());
         }
-        map.put("url", "/sell/seller/product/list");
+        map.put("url", "/seller/product/list");
         return new ModelAndView("common/success", map);
     }
 }
