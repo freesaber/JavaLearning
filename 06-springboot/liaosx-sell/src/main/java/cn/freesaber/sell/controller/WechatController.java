@@ -30,7 +30,8 @@ public class WechatController {
     @Autowired
     private ProjectUrlConfig projectUrlConfig;
 
-    // 1.微信中给用户发送一个链接http://xxxxx.com/wechat/authorize?returnUrl=http://xxxxx.com/
+    // 1.微信用户访问主页projectUrlConfig.getSell()后，判断是否有cookie，如果没有前端重定向到下面的授权连接
+    // projectUrlConfig.getSell()+"/wechat/authorize?returnUrl"+首页地址
     // 2.用户点击链接后，会进入到下面的authorize
     @GetMapping("/authorize")
     public String authorize(@RequestParam("returnUrl") String returnUrl) throws UnsupportedEncodingException {
@@ -39,7 +40,7 @@ public class WechatController {
         logger.info("【微信网页授权url】{}", redirectUrl);
 
         // 3.authorize方法构建一个微信授权redirectUrl，重定向到微信服务器接口
-        // 4.微信接口在接受请求后，获取点击操作的用户，将用户信息放入code，将接受参数放入state，然后重定向到url地址
+        // 4.微信接口在接受请求后，获取点击操作的用户，将用户信息放入code，将接受参数放入state，然后进入下面的userInfo
         return "redirect:" + redirectUrl;
     }
 
@@ -56,7 +57,7 @@ public class WechatController {
         }
 
         String openId = wxMpOAuth2AccessToken.getOpenId();
-        // 6.通过构建一个url进入到我们具体的应用模块页面，带上openid，就能获取访问应用的用户
+        // 6.重定向到首页，带上openid，就能获取访问应用的用户
         return "redirect:" + returnUrl + "?openid=" + openId;
     }
 

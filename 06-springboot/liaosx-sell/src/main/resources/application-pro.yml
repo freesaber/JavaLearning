@@ -27,10 +27,13 @@ wechat:
   mchId: 
   mchKey: 
   keyPath: 
-  notifyUrl: 
+  notifyUrl:
+  templateId:
+    orderStatus: grymnyvsVIEeT7Z8_vMN9qEjm-Vw97tEdncf4YOy8BY
 
 #此处的域名是生产环境域名
 projectUrlConfig:
   wechatMpAuthorize: http://liaosxsell.freesaber.cn
   wechatOpenAuthorize: http://liaosxsell.freesaber.cn
   sell: http://liaosxsell.freesaber.cn
+  websocket: ws://freesaber.natapp1.cc

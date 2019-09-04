@@ -42,7 +42,7 @@ public class SellerUserController {
         SellerInfo sellerInfo = sellerService.findSellerInfoByOpenid(openid);
         if (sellerInfo == null) {
             map.put("msg", ResultEnum.LOGIN_FAIL.getMessage());
-            map.put("url", projectUrlConfig.sell + "/seller/order/list");
+            map.put("url", projectUrlConfig.getSell() + "/seller/order/list");
             return new ModelAndView("common/error");
         }
 
@@ -71,7 +71,7 @@ public class SellerUserController {
         }
 
         map.put("msg", ResultEnum.LOGOUT_SUCCESS.getMessage());
-        map.put("url", projectUrlConfig.sell + "/seller/order/list");
+        map.put("url", projectUrlConfig.getSell() + "/seller/order/list");
         return new ModelAndView("/common/success", map);
     }
 }

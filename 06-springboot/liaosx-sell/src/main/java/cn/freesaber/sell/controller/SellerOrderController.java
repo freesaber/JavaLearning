@@ -1,5 +1,6 @@
 package cn.freesaber.sell.controller;
 
+import cn.freesaber.sell.config.ProjectUrlConfig;
 import cn.freesaber.sell.dto.OrderDTO;
 import cn.freesaber.sell.enums.ResultEnum;
 import cn.freesaber.sell.exception.SellException;
@@ -28,6 +29,9 @@ public class SellerOrderController {
     @Autowired
     private OrderService orderService;
 
+    @Autowired
+    private ProjectUrlConfig projectUrlConfig;
+
     /**
      * 订单列表
      *
@@ -44,6 +48,7 @@ public class SellerOrderController {
         map.put("orderDTOPage", orderDTOPage);
         map.put("currentPage", page);
         map.put("size", size);
+        map.put("url", projectUrlConfig.getWebsocket());
         return new ModelAndView("order/list", map);
     }
 
@@ -82,7 +87,7 @@ public class SellerOrderController {
 
     @GetMapping("/finish")
     public ModelAndView finished(@RequestParam("orderId") String orderId,
-                               Map<String, Object> map) {
+                                 Map<String, Object> map) {
         try {
             OrderDTO orderDTO = orderService.findOne(orderId);
             orderService.finish(orderDTO);

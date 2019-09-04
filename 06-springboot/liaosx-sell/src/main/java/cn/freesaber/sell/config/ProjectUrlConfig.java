@@ -11,15 +11,20 @@ public class ProjectUrlConfig {
     /**
      * 微信公众平台授权url
      */
-    public String wechatMpAuthorize;
+    private String wechatMpAuthorize;
 
     /**
      * 微信开放平台授权url
      */
-    public String wechatOpenAuthorize;
+    private String wechatOpenAuthorize;
 
     /**
      * 点餐系统
      */
-    public String sell;
+    private String sell;
+
+    /**
+     *  websocketUrl
+     */
+    private String websocket;
 }

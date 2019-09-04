@@ -28,9 +28,12 @@ wechat:
   mchKey:
   keyPath:
   notifyUrl:
+  templateId:
+    orderStatus: grymnyvsVIEeT7Z8_vMN9qEjm-Vw97tEdncf4YOy8BY
 
 #此处的域名使用的是内网穿透的域名
 projectUrlConfig:
   wechatMpAuthorize: http://freesaber.natapp1.cc
   wechatOpenAuthorize: http://freesaber.natapp1.cc
   sell: http://freesaber.natapp1.cc
+  websocket: ws://freesaber.natapp1.cc

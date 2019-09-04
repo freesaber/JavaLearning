@@ -21,6 +21,7 @@
 <script>
 import header from './components/header/header'
 import { urlParse } from './assets/js/util'
+import { saveToLocal, loadFromLocal } from './assets/js/store'
 
 export default {
   name: 'app',
@@ -43,7 +44,19 @@ export default {
       if (res.code == 0) {
         this.seller = Object.assign({}, this.seller, res.data);
       }
-    })
+    });
+
+    // 判断是否存在用户openid,如果不存在
+    var openid = loadFromLocal('user', 'openid', null);
+    if(!openid){
+      // 如果url中可以获取
+      let queryParam = urlParse();
+      if(queryParam.openid){
+        saveToLocal('user', 'openid', queryParam.openid);
+      }else{
+        window.location.href="http://freesaber.natapp1.cc/wechat/authorize?returnUrl=http://freesaber.natapp1.cc";
+      }
+    }
   },
   computed: {
 
