@@ -62,6 +62,7 @@
 import Velocity from 'velocity-animate'
 import cartcontrol from '../common/cartcontrol'
 import BScroll from '@better-scroll/core'
+import { saveToLocal, loadFromLocal } from '../../assets/js/store'
 
 export default {
   name: 'shopcart',
@@ -221,6 +222,20 @@ export default {
         return;
       }
       window.alert(`支付${this.totalPrice}元`);
+      let data = new FormData();
+      data.append('name','张三');
+      data.append('phone','18868822111');
+      data.append('address','慕课网总部');
+      data.append('openid',loadFromLocal('user', 'openid', null));
+      var items = []
+      this.selectFoods.forEach((food) => {
+        items.push({productId:food.id,productQuantity:food.count});
+      });
+      data.append('items',JSON.stringify(items));
+      this.axios.post('/buyer/order/create',data).then((response) => {
+        window.alert('下单成功！');
+        this.empty();
+      });  
     }
   }
 }

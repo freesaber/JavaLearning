@@ -1,10 +1,16 @@
 package cn.freesaber.sell.handler;
 
+import cn.freesaber.sell.VO.ResultVO;
 import cn.freesaber.sell.config.ProjectUrlConfig;
+import cn.freesaber.sell.exception.SellException;
 import cn.freesaber.sell.exception.SellerAuthorException;
+import cn.freesaber.sell.utils.ResultVOUtil;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
+import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.servlet.ModelAndView;
 
 @ControllerAdvice
@@ -29,4 +35,13 @@ public class SellExceptionHandler {
                 .concat("/seller/login?openid=123456")
         );
     }
+
+    @ExceptionHandler(value = SellException.class)
+    @ResponseBody
+    public ResultVO handleSellException(SellException e) {
+        return ResultVOUtil.error(e.getCode(), e.getMessage());
+    }
+
+//    @ResponseStatus(HttpStatus.FORBIDDEN)
+
 }

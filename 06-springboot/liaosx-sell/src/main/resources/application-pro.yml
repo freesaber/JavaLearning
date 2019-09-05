@@ -36,4 +36,4 @@ projectUrlConfig:
   wechatMpAuthorize: http://liaosxsell.freesaber.cn
   wechatOpenAuthorize: http://liaosxsell.freesaber.cn
   sell: http://liaosxsell.freesaber.cn
-  websocket: ws://freesaber.natapp1.cc
+  websocket: ws://liaosxsell.freesaber.cn

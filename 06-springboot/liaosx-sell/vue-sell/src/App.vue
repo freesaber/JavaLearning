@@ -54,7 +54,10 @@ export default {
       if(queryParam.openid){
         saveToLocal('user', 'openid', queryParam.openid);
       }else{
-        window.location.href="http://freesaber.natapp1.cc/wechat/authorize?returnUrl=http://freesaber.natapp1.cc";
+        // 测试
+        // window.location.href="http://freesaber.natapp1.cc/wechat/authorize?returnUrl=http://freesaber.natapp1.cc";
+        // 发布
+        window.location.href="http://liaosxsell.freesaber.cn/wechat/authorize?returnUrl=http://liaosxsell.freesaber.cn";
       }
     }
   },

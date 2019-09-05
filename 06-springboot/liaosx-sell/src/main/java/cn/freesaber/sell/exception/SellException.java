@@ -1,7 +1,9 @@
 package cn.freesaber.sell.exception;
 
 import cn.freesaber.sell.enums.ResultEnum;
+import lombok.Getter;
 
+@Getter
 public class SellException extends RuntimeException {
     /** 异常返回编码 */
     private Integer code;
