@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="Message">
+    <select id="queryMessageList"  resultMap="MessageList">
+        select ID,COMMAND,DESCRIPTION,CONTENT from message;
+    </select>
+    <resultMap id="MessageList" type="net.freesaber.bean.Message">
+        <id property="id" column="ID"/>
+        <result property="command" column="COMMAND"/>
+        <result property="description" column="DESCRIPTION"/>
+        <result property="content" column="CONTENT"/>
+    </resultMap>
+</mapper>
