@@ -10,6 +10,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE"/>
     <title>内容列表页面</title>
     <link href="<%= basePath %>resources/css/all.css" rel="stylesheet" type="text/css"/>
+    <script src="<%= basePath %>resources/js/common/jquery-1.8.0.min.js"></script>
+    <script src="<%= basePath %>resources/js/back/index.js"></script>
 </head>
 <body style="background: #e1e9eb;">
 <form action="<%= basePath %>List.action" id="mainForm" method="post">
@@ -20,7 +22,7 @@
                 内容列表
                 <a class="btn03" href="#">新 增</a>
                 &nbsp;&nbsp;&nbsp;&nbsp;
-                <a class="btn03" href="#">删 除</a>
+                <a class="btn03" href="javascript:deleteBatch('<%=basePath%>');">删 除</a>
             </p>
 
             <table class="tab1">
@@ -28,11 +30,11 @@
                 <tr>
                     <td width="90" align="right">指令名称：</td>
                     <td>
-                        <input name="command" type="text" class="allInput" value="${command}"/>
+                        <input id="command" name="command" type="text" class="allInput" value="${command}"/>
                     </td>
                     <td width="90" align="right">描述：</td>
                     <td>
-                        <input name="description" type="text" class="allInput" value="${description}"/>
+                        <input id="description" name="description" type="text" class="allInput" value="${description}"/>
                     </td>
                     <td width="85" align="right"><input type="submit" class="tabSub" value="查 询"/></td>
                 </tr>
@@ -51,13 +53,16 @@
                     </tr>
                     <c:forEach items="${messageList}" var="message" varStatus="status">
                         <tr <c:if test="${status.index % 2 == 1}">style='background-color:#ECF6EE;'</c:if>>
-                            <td><input type="checkbox"/></td>
+                            <td><input type="checkbox" name="id" value="${message.id}"/></td>
                             <td>${status.index + 1}</td>
                             <td>${message.command}</td>
                             <td>${message.description}</td>
                             <td>
                                 <a href="#">修改</a>&nbsp;&nbsp;&nbsp;
-                                <a href="#">删除</a>
+                                <a href="javascript:void(0)"
+                                   onclick="deleteOne(${message.id})">
+                                    删除
+                                </a>
                             </td>
                         </tr>
                     </c:forEach>
