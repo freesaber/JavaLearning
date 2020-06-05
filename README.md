@@ -1,4 +1,4 @@
-# JavaLearning
+﻿# JavaLearning
 学习Java的项目代码
 
 ##01-javabasic
@@ -7,17 +7,13 @@ java的基础知识
 ##02-javaweb
 java web、servlet、jsp等
 
-##03-spring
-java web、servlet等
-
-##04-ssh
-spring、struts、hiberate
-
-##05-ssm
+##03-ssm
 spring、spring mvc、mybatis
 
-##06-springboot
-netty、spring boot、微服务等
+##04-springboot
+spring boot
 
-##07-etc
+##05-微服务
+
+##06-etc
 其他
