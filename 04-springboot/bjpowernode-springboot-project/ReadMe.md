@@ -12,8 +12,8 @@ B站课程，动力节点SpringBoot全套教程[最详细的SpringBoot教程](ht
 9. 将自定义配置映射到一个对象
 10. springboot集成jsp
 11. springboot集成MyBatis
-    a. 添加mybatis依赖，mysql驱动
-    b. 使用mybatis提供的逆向工程生成实体bean，映射文件，DAO接口
+    1. 添加mybatis依赖，mysql驱动
+    2. 使用mybatis提供的逆向工程生成实体bean，映射文件，DAO接口
     
     springboot集成MyBatis,主要的是两个注解@Mapper，@MapperScan
     @Mapper 需要在每一个Mapper接口类上添加，作用是扫描dao接口
@@ -33,11 +33,11 @@ B站课程，动力节点SpringBoot全套教程[最详细的SpringBoot教程](ht
     a.添加操作redis数据类型的依赖
     b.在springboot核心配置文件中添加redis的配置
 20. SpringBoot集成Dubbo分布式框架
-    a.接口工程：存放实体bean和业务接口
-    b.服务提供者：业务接口的实现类并将服务暴露且注册到注册中心，调用数据持久层
+    1. 接口工程：存放实体bean和业务接口
+    2. 服务提供者：业务接口的实现类并将服务暴露且注册到注册中心，调用数据持久层
         -添加依赖(dubbo,注册中心,接口工程)
         -配置服务提供者核心配置文件
-    c.服务消费者：处理浏览器客户端发送的请求，从注册中心调用服务提供者所提供的服务
+    3. 服务消费者：处理浏览器客户端发送的请求，从注册中心调用服务提供者所提供的服务
         -添加依赖(dubbo,注册中心,接口工程)
         -配置服务消费者核心配置文件
 
