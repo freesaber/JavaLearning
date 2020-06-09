@@ -42,7 +42,7 @@
             targetPackage：生成的类要放的包，真实的包受enableSubPackages属性控制；
             targetProject：目标项目，指定一个存在的目录下，生成的内容会放到指定目录中，如果目录不存在，MBG不会自动建目录
          -->
-        <javaModelGenerator targetPackage="com.bjpowernode.springboot.model" targetProject="src/main/java">
+        <javaModelGenerator targetPackage="com.bjpowernode.springboot.model" targetProject="C:\Users\saber\Documents\G\mygithub\JavaLearning\04-springboot\bjpowernode-springboot-project\023-springboot-dubbo-ssm-interface\src\main\java">
             <!--  for MyBatis3/MyBatis3Simple
                 自动为每一个生成的类创建一个构造方法，构造方法包含了所有的field；而不是使用setter；
              -->

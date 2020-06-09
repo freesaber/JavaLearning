@@ -6,7 +6,7 @@
 <generatorConfiguration>
     <!-- 在MBG工作的时候，需要额外加载的依赖包
        location属性指明加载jar/zip包的全路径-->
-   <classPathEntry location="C:\Users\saber\Documents\G\mygithub\JavaLearning\06-springboot\bjpowernode-springboot-project\012-springboot-mybatis\doc\mysql-connector-java-5.1.7-bin.jar" />
+   <classPathEntry location="C:\Users\saber\Documents\G\mygithub\JavaLearning\04-springboot\bjpowernode-springboot-project\012-springboot-mybatis\doc\mysql-connector-java-5.1.7-bin.jar" />
 
     <!--
         context:生成一组对象的环境
@@ -62,7 +62,7 @@
                 注意：如果在key class或者record class中有root class相同的属性，MBG就不会重新生成这些属性了，包括：
                     1，属性名相同，类型相同，有相同的getter/setter方法；
              -->
-            <!--<property name="rootClass" value="com.intfish.mygenerator.entity.BaseDomain"/>-->
+            <!--<property name="rootClass" value="web.intfish.mygenerator.entity.BaseDomain"/>-->
 
             <!-- 设置是否在getter方法中，对String类型字段调用trim()方法 -->
             <property name="trimStrings" value="false"/>

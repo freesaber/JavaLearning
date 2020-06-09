@@ -1,11 +1,11 @@
 package com.bjpowernode.springboot;
 
-import org.mybatis.spring.annotation.MapperScan;
+import com.alibaba.dubbo.spring.boot.annotation.EnableDubboConfiguration;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan(basePackages = "web.bjpowernode.springboot.mapper")
+@EnableDubboConfiguration
 public class Application {
 
     public static void main(String[] args) {

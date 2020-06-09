@@ -8,5 +8,22 @@
     <artifactId>020-springboot-dubbo-interface</artifactId>
     <version>1.0.0</version>
 
+    <dependencies>
+        <!--<dependency>-->
+            <!--<groupId>org.springframework</groupId>-->
+            <!--<artifactId>spring-core</artifactId>-->
+            <!--<version>5.2.6.RELEASE</version>-->
+        <!--</dependency>-->
+        <!--<dependency>-->
+            <!--<groupId>org.springframework</groupId>-->
+            <!--<artifactId>spring-beans</artifactId>-->
+            <!--<version>5.2.6.RELEASE</version>-->
+        <!--</dependency>-->
+        <!--<dependency>-->
+            <!--<groupId>org.springframework</groupId>-->
+            <!--<artifactId>spring-context</artifactId>-->
+            <!--<version>5.2.6.RELEASE</version>-->
+        <!--</dependency>-->
+    </dependencies>
 
 </project>
