@@ -2,7 +2,7 @@
 
 ## 01-javabasic
 1. 开发环境
-- [项目管理利器Maven](https://www.imooc.com/learn/443)
+- [Maven教程](https://www.bilibili.com/video/BV1st411p7E4)
 - [Maven多模块管理](https://github.com/freesaber/JavaLearning/tree/master/01-javabasic/bjpowernode-maven-modules-project)
 - [IDEA神器使用技巧](https://www.imooc.com/learn/924)
 - [Java开发利器IDEA](https://www.bilibili.com/video/BV14t411z77T)
