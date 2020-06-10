@@ -24,7 +24,6 @@ B站课程，动力节点SpringBoot全套教程[最详细的SpringBoot教程](ht
         还需要在pom文件中手动指定资源文件夹路径
     2. 将Mapper接口和Mapper映射文件分开存放，Mapper接口存放到src/main/java目录下
         Mapper映射文件存放到resources(类路径)在springboot核心配置文件中指定mapper映射文件存放位置
-
 16. SpringBoot项目下使用事务
     事务是完整的功能，也叫完整的业务。事务只和增删改有关系
 17. SpringMvc中的其他注解
@@ -53,5 +52,16 @@ B站课程，动力节点SpringBoot全套教程[最详细的SpringBoot教程](ht
         - 配置SpringBoot核心配置文件
             - 配置视图解析器
             - 配置Dubbo
+30. SpringBoot使用拦截器
+    1. 定义一个拦截器，实现HandlerInterceptor接口
+    2. 创建一个配置类(即：在SpringMvc配置文件中使用mvc:interceptors)
+31. SpringBoot框架下使用Servlet
+    - 创建一个Servlet它要继承HttpServlet
+    - 在web.xml配置文件中使用servlet servlet-mapping
+    1. 注解方式：@WebServlet @ServletCompanScan
+    2. 配置类
+33. SpringBoot框架下使用过滤器Filter
+
+
 
  

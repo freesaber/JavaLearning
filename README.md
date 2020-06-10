@@ -2,8 +2,8 @@
 
 ## 01-javabasic
 1. 开发环境
-- [Maven教程](https://www.bilibili.com/video/BV1st411p7E4)
-- [Maven多模块管理](https://github.com/freesaber/JavaLearning/tree/master/01-javabasic/bjpowernode-maven-modules-project)
+- [动力节点Maven教程](https://www.bilibili.com/video/BV1st411p7E4)
+- [动力节点Maven多模块管理](https://github.com/freesaber/JavaLearning/tree/master/01-javabasic/bjpowernode-maven-modules-project)
 - [IDEA神器使用技巧](https://www.imooc.com/learn/924)
 - [Java开发利器IDEA](https://www.bilibili.com/video/BV14t411z77T)
 
@@ -14,8 +14,18 @@
 4. 设计模式
 
 ## 02-javaweb
+1. 基础
+
+2. 进阶
+
+3. 实战
 
 ## 03-ssm
+1. 基础
+
+2. 进阶
+
+3. 实战
 
 ## 04-springboot
 1. 基础
@@ -28,5 +38,10 @@
 3. 实战
 
 ## 05-微服务
+1. 基础
+
+2. 进阶
+
+3. 实战
 
 ## 06-etc
