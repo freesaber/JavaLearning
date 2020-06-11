@@ -34,14 +34,21 @@
 - [SpringBoot进阶之Web进阶](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-girl)
 
 2. 进阶
+- [SpringBoot2.0深度实践之系列总览](http://www.imooc.com/learn/1058)
+- [SpringBoot2.0深度实践之核心技术篇](https://coding.imooc.com/class/252.html)
 
 3. 实战
+- [SpringBoot企业微信点餐系统](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-sell)
 
 ## 05-微服务
-1. 基础
+1. Dubbo
+- [动力节点Dubbo教程](https://www.bilibili.com/video/BV1Sk4y197eD)
+- [ZooKeeper分布式专题与Dubbo微服务入门](https://coding.imooc.com/class/201.html)
 
-2. 进阶
+2. k8s
+- [k8s微服务容器化实践](https://coding.imooc.com/class/198.html)
+- [k8s生产级实践指南](https://coding.imooc.com/class/335.html)
 
-3. 实战
+3. SpringCloud
 
 ## 06-etc
