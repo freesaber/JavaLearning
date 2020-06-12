@@ -42,14 +42,15 @@
 
 ## 05-微服务
 1. 基础
+- [RabbitMQ消息中间件技术精讲](https://coding.imooc.com/class/chapter/262.html#Anchor)
+- [Kafka多维度系统精讲](https://coding.imooc.com/class/chapter/434.html#Anchor)
 
 2. Dubbo
 - [动力节点-Dubbo教程](https://www.bilibili.com/video/BV1Sk4y197eD)
 - [ZooKeeper分布式专题与Dubbo微服务入门](https://coding.imooc.com/class/201.html)
 
 3. SpringCloud
-- [廖师兄-SpringCloud Finchley微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx)
-
+- [廖师兄-SpringCloud微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx)
 
 4. k8s
 - [刘果国-k8s微服务容器化实践](https://coding.imooc.com/class/198.html)
