@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: product
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/springcloud_sell?useUnicode=true&characterEncoding=utf8&autoReconnect=true&serverTimezone=GMT%2B8&useSSL=false
+    username: root
+    password: passok
+  jpa:
+    show-sql: true
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+

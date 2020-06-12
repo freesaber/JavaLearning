@@ -40,7 +40,7 @@
 3. 实战
 - [廖师兄-SpringBoot企业微信点餐系统](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-sell)
 
-## 05-微服务
+## 05-microservice
 1. 基础
 - [RabbitMQ消息中间件技术精讲](https://coding.imooc.com/class/chapter/262.html#Anchor)
 - [Kafka多维度系统精讲](https://coding.imooc.com/class/chapter/434.html#Anchor)
