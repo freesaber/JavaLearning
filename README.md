@@ -50,7 +50,7 @@
 - [ZooKeeper分布式专题与Dubbo微服务入门](https://coding.imooc.com/class/201.html)
 
 3. SpringCloud
-- [廖师兄-SpringCloud微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx)
+- [廖师兄-SpringCloud微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx-springcloud)
 
 4. k8s
 - [刘果国-k8s微服务容器化实践](https://coding.imooc.com/class/198.html)
