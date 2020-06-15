@@ -2,6 +2,4 @@
 
 慕课网廖师兄实战课程，[SpringCloud Finchley三版本微服务实战](https://coding.imooc.com/class/chapter/187.html#Anchor)
 
-链接：https://pan.baidu.com/s/1OkXph9wRnBcPwRInb5mtfg 
-
-提取码：9zw1
+建表同[微信点餐系统](https://github.com/freesaber/JavaLearning/blob/master/04-springboot/liaosx-sell/doc/sell.sql)

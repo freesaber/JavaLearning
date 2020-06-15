@@ -44,6 +44,7 @@
 1. 基础
 - [RabbitMQ消息中间件技术精讲](https://coding.imooc.com/class/chapter/262.html#Anchor)
 - [Kafka多维度系统精讲](https://coding.imooc.com/class/chapter/434.html#Anchor)
+- [第一个docker化的java应用](https://www.imooc.com/learn/824)
 
 2. Dubbo
 - [动力节点-Dubbo教程](https://www.bilibili.com/video/BV1Sk4y197eD)
@@ -55,3 +56,7 @@
 4. k8s
 - [刘果国-k8s微服务容器化实践](https://coding.imooc.com/class/198.html)
 - [刘果国-k8s生产级实践指南](https://coding.imooc.com/class/335.html)
+
+
+## 说明
+大部分收费课程，都有网盘共享资源，不提供链接，请自行使用搜索工具查找。
