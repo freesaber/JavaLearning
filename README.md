@@ -56,7 +56,7 @@
 4. k8s
 - [刘果国-k8s微服务容器化实践](https://coding.imooc.com/class/198.html)
 - [刘果国-k8s生产级实践指南](https://coding.imooc.com/class/335.html)
-- [系统学习Docker 践行DevOps理念](https://coding.imooc.com/class/189.html)
+- [系统学习Docker 践行DevOps理念](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/docker-devops)
 
 
 ## 说明
