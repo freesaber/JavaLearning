@@ -7,11 +7,16 @@
 - [IDEA神器使用技巧](https://www.imooc.com/learn/924)
 - [Java开发利器IDEA](https://www.bilibili.com/video/BV14t411z77T)
 
-2. 语法
+2. 基础
+- [黑马程序员Java基础篇-IDEA版(时光太瘦123)](https://www.bilibili.com/video/BV1ha4y147NZ)
+- [二进制与Java中的基本数据类型](https://www.imooc.com/learn/1223)
 
 3. 多线程
 
 4. 设计模式
+
+5. Java8+
+- [恕我直言你可能真的不会java系列](https://www.bilibili.com/video/BV1sE411P7C1)
 
 ## 02-javaweb
 1. 基础
