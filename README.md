@@ -10,12 +10,16 @@
 2. 基础
 - [黑马程序员Java基础篇-IDEA版(时光太瘦123)](https://www.bilibili.com/video/BV1ha4y147NZ)
 - [二进制与Java中的基本数据类型](https://www.imooc.com/learn/1223)
+- [全面解析Java注解](https://www.imooc.com/learn/456)
 
-3. 多线程
+3. 进阶
+- [Java实现Base64加密](https://www.imooc.com/learn/285)
+- [Java实现对称加密](https://www.imooc.com/learn/287)
+- [Java实现非对称加密](https://www.imooc.com/learn/288)
+- [Java实现数字签名](https://www.imooc.com/learn/289)
+- [Java实现消息摘要算法加密](https://www.imooc.com/learn/286)
 
-4. 设计模式
-
-5. Java8+
+4. Java8+
 - [恕我直言你可能真的不会java系列](https://www.bilibili.com/video/BV1sE411P7C1)
 
 ## 02-javaweb
