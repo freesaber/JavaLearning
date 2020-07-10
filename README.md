@@ -51,9 +51,10 @@
 
 ## 05-microservice
 1. 基础
+- [第一个docker化的java应用](https://www.imooc.com/learn/824)
+- [Docker核心技术与基本原理(鲁班在线)](https://www.bilibili.com/video/BV13J411e7QM)
 - [RabbitMQ消息中间件技术精讲](https://coding.imooc.com/class/chapter/262.html#Anchor)
 - [Kafka多维度系统精讲](https://coding.imooc.com/class/chapter/434.html#Anchor)
-- [第一个docker化的java应用](https://www.imooc.com/learn/824)
 
 2. Dubbo
 - [动力节点-Dubbo教程](https://www.bilibili.com/video/BV1Sk4y197eD)
@@ -62,7 +63,9 @@
 3. SpringCloud
 - [廖师兄-SpringCloud微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx-springcloud)
 
-4. k8s
+4. CICD
+- [用Jenkins自动化搭建测试环境](https://www.imooc.com/learn/1008)
+- [Crontab不知疲倦的时间表](https://www.imooc.com/learn/1009)
 - [刘果国-k8s微服务容器化实践](https://coding.imooc.com/class/198.html)
 - [刘果国-k8s生产级实践指南](https://coding.imooc.com/class/335.html)
 - [系统学习Docker 践行DevOps理念](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/docker-devops)
