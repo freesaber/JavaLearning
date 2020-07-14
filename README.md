@@ -64,7 +64,7 @@
 - [廖师兄-SpringCloud微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx-springcloud)
 
 4. CICD
-- [用Jenkins自动化搭建测试环境](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/laoqian-jenkins)
+- [用Jenkins自动化搭建测试环境](https://www.imooc.com/learn/1008)
 - [Crontab不知疲倦的时间表](https://www.imooc.com/learn/1009)
 - [刘果国-k8s微服务容器化实践](https://coding.imooc.com/class/198.html)
 - [刘果国-k8s生产级实践指南](https://coding.imooc.com/class/335.html)
