@@ -8,33 +8,66 @@
 - [Java开发利器IDEA](https://www.bilibili.com/video/BV14t411z77T)
 
 2. 基础
-- [黑马程序员Java基础篇-IDEA版(时光太瘦123)](https://www.bilibili.com/video/BV1ha4y147NZ)
+- [博学谷-Java基础精讲(编程资料库)](https://www.bilibili.com/video/BV1gE411o7eC)
+- [传智播客-Java基础篇(时光太瘦123)](https://www.bilibili.com/video/BV1ha4y147NZ)
 - [二进制与Java中的基本数据类型](https://www.imooc.com/learn/1223)
+- [Java IO流](https://www.imooc.com/learn/123)
+- [XML文件读取](https://www.imooc.com/learn/171)
+- [XML文件写入](https://www.imooc.com/learn/251)
+- [反射](https://www.imooc.com/learn/199)
 - [全面解析Java注解](https://www.imooc.com/learn/456)
 
 3. 进阶
+- [细说多线程之Thread VS Runnable](https://www.imooc.com/learn/312)
+- [细说Java多线程之内存可见性](https://www.imooc.com/learn/352)
 - [Java实现Base64加密](https://www.imooc.com/learn/285)
 - [Java实现对称加密](https://www.imooc.com/learn/287)
 - [Java实现非对称加密](https://www.imooc.com/learn/288)
 - [Java实现数字签名](https://www.imooc.com/learn/289)
 - [Java实现消息摘要算法加密](https://www.imooc.com/learn/286)
+- [单例模式](https://www.imooc.com/learn/112)
+- [模板方法模式](https://www.imooc.com/learn/145)
+- [适配器模式](https://www.imooc.com/learn/146)
+- [策略模式](https://www.imooc.com/learn/165)
+- [责任链模式](https://www.imooc.com/learn/257)
+- [工厂模式](https://www.imooc.com/learn/261)
+- [观察者模式](https://www.imooc.com/learn/415)
+- [代理模式](https://www.imooc.com/learn/214)
+- [装饰者模式](https://www.imooc.com/learn/1180)
+- [狂神说Java-JVM快速入门篇](https://www.bilibili.com/video/BV1iJ411d7jS)
+- [尚硅谷-宋红康JVM教程](https://www.bilibili.com/video/BV1PJ411n7xZ)
 
 4. Java8+
-- [恕我直言你可能真的不会java系列](https://www.bilibili.com/video/BV1sE411P7C1)
+- [恕我直言你可能真的不会java(字母哥课堂)](https://www.bilibili.com/video/BV1sE411P7C1)
+- [Java9之模块系统](https://www.imooc.com/learn/997)
+- [JDK11&12新特性解读](https://www.imooc.com/learn/553)
 
 ## 02-javaweb
 1. 基础
+- [JDBC](https://www.imooc.com/learn/157)
+- [动力节点-JavaWeb从入门到精通](https://www.bilibili.com/video/BV18z411i7gh)
+- [Java Socket应用](https://www.imooc.com/learn/161)
 
 2. 进阶
 
-3. 实战
 
 ## 03-ssm
-1. 基础
+1. Spring
+- [Spring框架小白的蜕变](https://www.imooc.com/learn/1108)
+- [Spring框架从入门到精通](https://www.bilibili.com/video/BV1nz4y1d7uy)
+- [探秘Spring AOP](https://www.imooc.com/learn/869)
+- [Spring事务管理](https://www.imooc.com/learn/478)
+- [Java-JDK动态代理（AOP）使用及实现原理分析](https://www.bilibili.com/video/BV1HZ4y1p7F1)
 
-2. 进阶
+2. mybatis
+- [动力节点-MyBatis从入门到精通](https://www.bilibili.com/video/BV185411s7Ry)
+- [MyBatis-Plus入门](https://www.imooc.com/learn/1130)
+- [MyBatis-Plus进阶](https://www.imooc.com/learn/1171)
 
-3. 实战
+3. 进阶
+- [springmvc从入门到精通](https://www.bilibili.com/video/BV1sk4y167pD)
+- [Spring MVC拦截器](https://www.imooc.com/learn/498)
+- [SSM框架从入门到精通](https://www.bilibili.com/video/BV1Ug4y1i7W7)
 
 ## 04-springboot
 1. 基础
