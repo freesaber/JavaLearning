@@ -34,44 +34,47 @@
 - [观察者模式](https://www.imooc.com/learn/415)
 - [代理模式](https://www.imooc.com/learn/214)
 - [装饰者模式](https://www.imooc.com/learn/1180)
-- [狂神说Java-JVM快速入门篇](https://www.bilibili.com/video/BV1iJ411d7jS)
+- [遇见狂神说-JVM快速入门篇](https://www.bilibili.com/video/BV1iJ411d7jS)
 - [尚硅谷-宋红康JVM教程](https://www.bilibili.com/video/BV1PJ411n7xZ)
 
 4. Java8+
-- [恕我直言你可能真的不会java(字母哥课堂)](https://www.bilibili.com/video/BV1sE411P7C1)
+- [字母哥课堂-恕我直言你可能真的不会java](https://www.bilibili.com/video/BV1sE411P7C1)
 - [Java9之模块系统](https://www.imooc.com/learn/997)
 - [JDK11&12新特性解读](https://www.imooc.com/learn/553)
 
-## 02-javaweb
+
+## 02-ssm
 1. 基础
+- [遇见狂神说-JavaWeb入门到实战](https://www.bilibili.com/video/BV12J411M7Sj)
 - [JDBC](https://www.imooc.com/learn/157)
-- [动力节点-JavaWeb从入门到精通](https://www.bilibili.com/video/BV18z411i7gh)
 - [Java Socket应用](https://www.imooc.com/learn/161)
 
-2. 进阶
-
-
-## 03-ssm
 1. Spring
+- [动力节点-Spring框架从入门到精通](https://www.bilibili.com/video/BV1nz4y1d7uy)
+- [遇见狂神说-Spring5通俗易懂](https://www.bilibili.com/video/BV1WE411d7Dv)
 - [Spring框架小白的蜕变](https://www.imooc.com/learn/1108)
-- [Spring框架从入门到精通](https://www.bilibili.com/video/BV1nz4y1d7uy)
 - [探秘Spring AOP](https://www.imooc.com/learn/869)
 - [Spring事务管理](https://www.imooc.com/learn/478)
 - [Java-JDK动态代理（AOP）使用及实现原理分析](https://www.bilibili.com/video/BV1HZ4y1p7F1)
 
 2. mybatis
 - [动力节点-MyBatis从入门到精通](https://www.bilibili.com/video/BV185411s7Ry)
+- [遇见狂神说-Mybatis版通俗易懂](https://www.bilibili.com/video/BV1NE411Q7Nx)
+- [Mybatis缓存详解](https://www.imooc.com/learn/1238)
 - [MyBatis-Plus入门](https://www.imooc.com/learn/1130)
 - [MyBatis-Plus进阶](https://www.imooc.com/learn/1171)
+- [遇见狂神说-MyBatisPlus通俗易懂](https://www.bilibili.com/video/BV17E411N7KN)
 
 3. 进阶
-- [springmvc从入门到精通](https://www.bilibili.com/video/BV1sk4y167pD)
-- [Spring MVC拦截器](https://www.imooc.com/learn/498)
+- [动力节点-SpringMVC从入门到精通](https://www.bilibili.com/video/BV1sk4y167pD)
+- [遇见狂神说-SpringMVC版通俗易懂](https://www.bilibili.com/video/BV1aE41167Tu)
+- [SpringMVC拦截器](https://www.imooc.com/learn/498)
 - [SSM框架从入门到精通](https://www.bilibili.com/video/BV1Ug4y1i7W7)
 
-## 04-springboot
+## 03-springboot
 1. 基础
 - [动力节点-SpringBoot教程](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/bjpowernode-springboot-project)
+- [遇见狂神说-SpringBoot通俗易懂](https://www.bilibili.com/video/BV1PE411i7CV)
 - [廖师兄-2小时SpringBoot红包程序](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-luckymoney)
 - [廖师兄-SpringBoot进阶之Web进阶](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-girl)
 
@@ -82,10 +85,8 @@
 3. 实战
 - [廖师兄-SpringBoot企业微信点餐系统](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-sell)
 
-## 05-microservice
+## 04-microservice
 1. 基础
-- [第一个docker化的java应用](https://www.imooc.com/learn/824)
-- [Docker核心技术与基本原理(鲁班在线)](https://www.bilibili.com/video/BV13J411e7QM)
 - [RabbitMQ消息中间件技术精讲](https://coding.imooc.com/class/chapter/262.html#Anchor)
 - [Kafka多维度系统精讲](https://coding.imooc.com/class/chapter/434.html#Anchor)
 
@@ -96,7 +97,13 @@
 3. SpringCloud
 - [廖师兄-SpringCloud微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx-springcloud)
 
-4. CICD
+## 05-CICD
+1. 基础
+- [第一个docker化的java应用](https://www.imooc.com/learn/824)
+- [遇见狂神说-Docker最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1og4y1q7M4)
+- [Docker核心技术与基本原理(鲁班在线)](https://www.bilibili.com/video/BV13J411e7QM)
+
+2. 进阶
 - [用Jenkins自动化搭建测试环境](https://www.imooc.com/learn/1008)
 - [Crontab不知疲倦的时间表](https://www.imooc.com/learn/1009)
 - [刘果国-k8s微服务容器化实践](https://coding.imooc.com/class/198.html)
