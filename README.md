@@ -36,26 +36,24 @@
 - [装饰者模式](https://www.imooc.com/learn/1180)
 - [遇见狂神说-JVM快速入门篇](https://www.bilibili.com/video/BV1iJ411d7jS)
 - [尚硅谷-宋红康JVM教程](https://www.bilibili.com/video/BV1PJ411n7xZ)
+- [Java Socket应用](https://www.imooc.com/learn/161)
 
 4. Java8+
 - [字母哥课堂-恕我直言你可能真的不会java](https://www.bilibili.com/video/BV1sE411P7C1)
 - [Java9之模块系统](https://www.imooc.com/learn/997)
 - [JDK11&12新特性解读](https://www.imooc.com/learn/553)
 
-
 ## 02-ssm
 1. 基础
 - [遇见狂神说-JavaWeb入门到实战](https://www.bilibili.com/video/BV12J411M7Sj)
-- [JDBC](https://www.imooc.com/learn/157)
-- [Java Socket应用](https://www.imooc.com/learn/161)
 
 1. Spring
 - [动力节点-Spring框架从入门到精通](https://www.bilibili.com/video/BV1nz4y1d7uy)
 - [遇见狂神说-Spring5通俗易懂](https://www.bilibili.com/video/BV1WE411d7Dv)
 - [Spring框架小白的蜕变](https://www.imooc.com/learn/1108)
 - [探秘Spring AOP](https://www.imooc.com/learn/869)
+- [Spring AOP使用及实现原理分析](https://www.bilibili.com/video/BV1HZ4y1p7F1)
 - [Spring事务管理](https://www.imooc.com/learn/478)
-- [Java-JDK动态代理（AOP）使用及实现原理分析](https://www.bilibili.com/video/BV1HZ4y1p7F1)
 
 2. mybatis
 - [动力节点-MyBatis从入门到精通](https://www.bilibili.com/video/BV185411s7Ry)
@@ -67,9 +65,9 @@
 
 3. 进阶
 - [动力节点-SpringMVC从入门到精通](https://www.bilibili.com/video/BV1sk4y167pD)
+- [动力节点-SSM框架从入门到精通](https://www.bilibili.com/video/BV1Ug4y1i7W7)
 - [遇见狂神说-SpringMVC版通俗易懂](https://www.bilibili.com/video/BV1aE41167Tu)
 - [SpringMVC拦截器](https://www.imooc.com/learn/498)
-- [SSM框架从入门到精通](https://www.bilibili.com/video/BV1Ug4y1i7W7)
 
 ## 03-springboot
 1. 基础
