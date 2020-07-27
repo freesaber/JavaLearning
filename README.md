@@ -8,8 +8,9 @@
 - [Java开发利器IDEA](https://www.bilibili.com/video/BV14t411z77T)
 
 2. 基础
-- [博学谷-Java基础精讲(编程资料库)](https://www.bilibili.com/video/BV1gE411o7eC)
-- [传智播客-Java基础篇(时光太瘦123)](https://www.bilibili.com/video/BV1ha4y147NZ)
+- [动力节点-Java零基础视频教程](https://www.bilibili.com/video/BV1P7411V7nQ)
+- [博学谷-Java基础精讲](https://www.bilibili.com/video/BV1gE411o7eC)
+- [传智播客-Java基础篇](https://www.bilibili.com/video/BV1ha4y147NZ)
 - [二进制与Java中的基本数据类型](https://www.imooc.com/learn/1223)
 - [Java IO流](https://www.imooc.com/learn/123)
 - [XML文件读取](https://www.imooc.com/learn/171)
@@ -46,6 +47,10 @@
 ## 02-ssm
 1. 基础
 - [遇见狂神说-JavaWeb入门到实战](https://www.bilibili.com/video/BV12J411M7Sj)
+- [Java遇见Html----JSP篇](https://www.imooc.com/learn/166)
+- [Java遇见Html----Servlet篇](https://www.imooc.com/learn/269)
+- [Java Web开发技术应用——过滤器](https://www.imooc.com/learn/213)
+- [JAVA Web开发技术应用——监听器](https://www.imooc.com/learn/271)
 
 1. Spring
 - [动力节点-Spring框架从入门到精通](https://www.bilibili.com/video/BV1nz4y1d7uy)
@@ -85,8 +90,10 @@
 
 ## 04-microservice
 1. 基础
+- [动力节点-RabbitMQ实战教程](https://www.bilibili.com/video/BV1Ap4y1D7tU)
 - [RabbitMQ消息中间件技术精讲](https://coding.imooc.com/class/chapter/262.html#Anchor)
 - [Kafka多维度系统精讲](https://coding.imooc.com/class/chapter/434.html#Anchor)
+- [动力节点-FastDFS教程](https://www.bilibili.com/video/BV1ta4y1v7Kw)
 
 2. Dubbo
 - [动力节点-Dubbo教程](https://www.bilibili.com/video/BV1Sk4y197eD)
