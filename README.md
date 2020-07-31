@@ -17,8 +17,10 @@
 - [XML文件写入](https://www.imooc.com/learn/251)
 - [反射](https://www.imooc.com/learn/199)
 - [全面解析Java注解](https://www.imooc.com/learn/456)
+- [遇见狂神说-注解和反射](https://www.bilibili.com/video/BV1p4411P7V3)
 
 3. 进阶
+- [遇见狂神说-多线程详解](https://www.bilibili.com/video/BV1V4411p7EF)
 - [细说多线程之Thread VS Runnable](https://www.imooc.com/learn/312)
 - [细说Java多线程之内存可见性](https://www.imooc.com/learn/352)
 - [Java实现Base64加密](https://www.imooc.com/learn/285)
@@ -57,21 +59,21 @@
 - [遇见狂神说-Spring5通俗易懂](https://www.bilibili.com/video/BV1WE411d7Dv)
 - [Spring框架小白的蜕变](https://www.imooc.com/learn/1108)
 - [探秘Spring AOP](https://www.imooc.com/learn/869)
-- [Spring AOP使用及实现原理分析](https://www.bilibili.com/video/BV1HZ4y1p7F1)
+- [动力节点-Spring AOP使用及实现原理分析](https://www.bilibili.com/video/BV1HZ4y1p7F1)
 - [Spring事务管理](https://www.imooc.com/learn/478)
 
 2. mybatis
 - [动力节点-MyBatis从入门到精通](https://www.bilibili.com/video/BV185411s7Ry)
 - [遇见狂神说-Mybatis版通俗易懂](https://www.bilibili.com/video/BV1NE411Q7Nx)
 - [Mybatis缓存详解](https://www.imooc.com/learn/1238)
+- [遇见狂神说-MyBatisPlus通俗易懂](https://www.bilibili.com/video/BV17E411N7KN)
 - [MyBatis-Plus入门](https://www.imooc.com/learn/1130)
 - [MyBatis-Plus进阶](https://www.imooc.com/learn/1171)
-- [遇见狂神说-MyBatisPlus通俗易懂](https://www.bilibili.com/video/BV17E411N7KN)
 
 3. 进阶
+- [遇见狂神说-SpringMVC版通俗易懂](https://www.bilibili.com/video/BV1aE41167Tu)
 - [动力节点-SpringMVC从入门到精通](https://www.bilibili.com/video/BV1sk4y167pD)
 - [动力节点-SSM框架从入门到精通](https://www.bilibili.com/video/BV1Ug4y1i7W7)
-- [遇见狂神说-SpringMVC版通俗易懂](https://www.bilibili.com/video/BV1aE41167Tu)
 - [SpringMVC拦截器](https://www.imooc.com/learn/498)
 
 ## 03-springboot
