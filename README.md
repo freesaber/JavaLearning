@@ -92,10 +92,7 @@
 
 ## 04-microservice
 1. 基础
-- [动力节点-RabbitMQ实战教程](https://www.bilibili.com/video/BV1Ap4y1D7tU)
-- [RabbitMQ消息中间件技术精讲](https://coding.imooc.com/class/chapter/262.html#Anchor)
-- [Kafka多维度系统精讲](https://coding.imooc.com/class/chapter/434.html#Anchor)
-- [动力节点-FastDFS教程](https://www.bilibili.com/video/BV1ta4y1v7Kw)
+
 
 2. Dubbo
 - [动力节点-Dubbo教程](https://www.bilibili.com/video/BV1Sk4y197eD)
@@ -116,6 +113,15 @@
 - [刘果国-k8s微服务容器化实践](https://coding.imooc.com/class/198.html)
 - [刘果国-k8s生产级实践指南](https://coding.imooc.com/class/335.html)
 - [系统学习Docker 践行DevOps理念](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/docker-devops)
+
+## 06-etc
+1. MQ
+- [编程不良人-RabbitMQ整合SpringBoot2.x](https://www.bilibili.com/video/BV1dE411K7MG)
+- [动力节点-RabbitMQ实战教程](https://www.bilibili.com/video/BV1Ap4y1D7tU)
+- [慕课网-RabbitMQ消息中间件技术精讲](https://coding.imooc.com/class/chapter/262.html#Anchor)
+- [Kafka多维度系统精讲](https://coding.imooc.com/class/chapter/434.html#Anchor)
+
+- [动力节点-FastDFS教程](https://www.bilibili.com/video/BV1ta4y1v7Kw)
 
 
 ## 说明
