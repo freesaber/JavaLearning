@@ -23,20 +23,6 @@
 - [遇见狂神说-多线程详解](https://www.bilibili.com/video/BV1V4411p7EF)
 - [细说多线程之Thread VS Runnable](https://www.imooc.com/learn/312)
 - [细说Java多线程之内存可见性](https://www.imooc.com/learn/352)
-- [Java实现Base64加密](https://www.imooc.com/learn/285)
-- [Java实现对称加密](https://www.imooc.com/learn/287)
-- [Java实现非对称加密](https://www.imooc.com/learn/288)
-- [Java实现数字签名](https://www.imooc.com/learn/289)
-- [Java实现消息摘要算法加密](https://www.imooc.com/learn/286)
-- [单例模式](https://www.imooc.com/learn/112)
-- [模板方法模式](https://www.imooc.com/learn/145)
-- [适配器模式](https://www.imooc.com/learn/146)
-- [策略模式](https://www.imooc.com/learn/165)
-- [责任链模式](https://www.imooc.com/learn/257)
-- [工厂模式](https://www.imooc.com/learn/261)
-- [观察者模式](https://www.imooc.com/learn/415)
-- [代理模式](https://www.imooc.com/learn/214)
-- [装饰者模式](https://www.imooc.com/learn/1180)
 - [遇见狂神说-JVM快速入门篇](https://www.bilibili.com/video/BV1iJ411d7jS)
 - [尚硅谷-宋红康JVM教程](https://www.bilibili.com/video/BV1PJ411n7xZ)
 - [Java Socket应用](https://www.imooc.com/learn/161)
@@ -119,10 +105,17 @@
 - [编程不良人-RabbitMQ整合SpringBoot2.x](https://www.bilibili.com/video/BV1dE411K7MG)
 - [动力节点-RabbitMQ实战教程](https://www.bilibili.com/video/BV1Ap4y1D7tU)
 - [慕课网-RabbitMQ消息中间件技术精讲](https://coding.imooc.com/class/chapter/262.html#Anchor)
-- [Kafka多维度系统精讲](https://coding.imooc.com/class/chapter/434.html#Anchor)
+- [慕课网-Kafka多维度系统精讲](https://coding.imooc.com/class/chapter/434.html#Anchor)
 
+2. Redis
+
+3. Nginx
+
+4. ES
+
+6. Other
 - [动力节点-FastDFS教程](https://www.bilibili.com/video/BV1ta4y1v7Kw)
 
 
 ## 说明
-大部分收费课程，都有网盘共享资源，不提供链接，请自行使用搜索工具查找。
+部分收费课程，都有网盘共享资源，不提供链接，可以通过吾爱破解、csdn、网盘搜索工具查找。
