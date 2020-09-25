@@ -48,7 +48,7 @@
 - [动力节点-Spring AOP使用及实现原理分析](https://www.bilibili.com/video/BV1HZ4y1p7F1)
 - [Spring事务管理](https://www.imooc.com/learn/478)
 
-2. mybatis
+2. Mybatis
 - [遇见狂神说-Mybatis版通俗易懂](https://www.bilibili.com/video/BV1NE411Q7Nx)
 - [Mybatis缓存详解](https://www.imooc.com/learn/1238)
 - [动力节点-MyBatis从入门到精通](https://www.bilibili.com/video/BV185411s7Ry)
