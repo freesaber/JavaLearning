@@ -35,10 +35,10 @@
 ## 02-ssm
 1. 基础
 - [遇见狂神说-JavaWeb入门到实战](https://www.bilibili.com/video/BV12J411M7Sj)
-- [Java遇见Html----JSP篇](https://www.imooc.com/learn/166)
 - [Java遇见Html----Servlet篇](https://www.imooc.com/learn/269)
+- [Java遇见Html----JSP篇](https://www.imooc.com/learn/166)
 - [Java Web开发技术应用——过滤器](https://www.imooc.com/learn/213)
-- [JAVA Web开发技术应用——监听器](https://www.imooc.com/learn/271)
+- [Java Web开发技术应用——监听器](https://www.imooc.com/learn/271)
 
 1. Spring
 - [动力节点-Spring框架从入门到精通](https://www.bilibili.com/video/BV1nz4y1d7uy)
