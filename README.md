@@ -35,8 +35,8 @@
 ## 02-ssm
 1. 基础
 - [遇见狂神说-JavaWeb入门到实战](https://www.bilibili.com/video/BV12J411M7Sj)
-- [Java遇见Html----Servlet篇](https://www.imooc.com/learn/269)
-- [Java遇见Html----JSP篇](https://www.imooc.com/learn/166)
+- [Java遇见Html——Servlet篇](https://www.imooc.com/learn/269)
+- [Java遇见Html——JSP篇](https://www.imooc.com/learn/166)
 - [Java Web开发技术应用——过滤器](https://www.imooc.com/learn/213)
 - [Java Web开发技术应用——监听器](https://www.imooc.com/learn/271)
 
@@ -88,7 +88,7 @@
 3. SpringCloud
 - [廖师兄-SpringCloud微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx-springcloud)
 
-## 05-CICD
+## 05-cicd
 1. 基础
 - [第一个docker化的java应用](https://www.imooc.com/learn/824)
 - [遇见狂神说-Docker最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1og4y1q7M4)
