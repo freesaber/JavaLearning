@@ -40,23 +40,23 @@
 - [Java Web开发技术应用——过滤器](https://www.imooc.com/learn/213)
 - [Java Web开发技术应用——监听器](https://www.imooc.com/learn/271)
 
-1. Spring
+2. Spring
 - [遇见狂神说-Spring5通俗易懂](https://www.bilibili.com/video/BV1WE411d7Dv)
-- [Spring框架小白的蜕变](https://www.imooc.com/learn/1108)
 - [动力节点-Spring框架从入门到精通](https://www.bilibili.com/video/BV1nz4y1d7uy)
+- [Spring框架小白的蜕变](https://www.imooc.com/learn/1108)
 - [探秘Spring AOP](https://www.imooc.com/learn/869)
-- [动力节点-Spring AOP使用及实现原理分析](https://www.bilibili.com/video/BV1HZ4y1p7F1)
+- [Spring AOP使用及实现原理分析](https://www.bilibili.com/video/BV1HZ4y1p7F1)
 - [Spring事务管理](https://www.imooc.com/learn/478)
 
-2. Mybatis
+3. Mybatis
 - [遇见狂神说-Mybatis版通俗易懂](https://www.bilibili.com/video/BV1NE411Q7Nx)
-- [Mybatis缓存详解](https://www.imooc.com/learn/1238)
 - [动力节点-MyBatis从入门到精通](https://www.bilibili.com/video/BV185411s7Ry)
+- [Mybatis缓存详解](https://www.imooc.com/learn/1238)
 - [遇见狂神说-MyBatisPlus通俗易懂](https://www.bilibili.com/video/BV17E411N7KN)
 - [MyBatisPlus入门](https://www.imooc.com/learn/1130)
 - [MyBatisPlus进阶](https://www.imooc.com/learn/1171)
 
-3. 进阶
+4. 进阶
 - [遇见狂神说-SpringMVC版通俗易懂](https://www.bilibili.com/video/BV1aE41167Tu)
 - [动力节点-SpringMVC从入门到精通](https://www.bilibili.com/video/BV1sk4y167pD)
 - [动力节点-SSM框架从入门到精通](https://www.bilibili.com/video/BV1Ug4y1i7W7)
