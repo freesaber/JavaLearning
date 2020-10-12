@@ -23,9 +23,11 @@
 - [遇见狂神说-多线程详解](https://www.bilibili.com/video/BV1V4411p7EF)
 - [细说多线程之Thread VS Runnable](https://www.imooc.com/learn/312)
 - [细说Java多线程之内存可见性](https://www.imooc.com/learn/352)
+- [ThreadLocal](https://www.imooc.com/learn/1217)
 - [遇见狂神说-JVM快速入门篇](https://www.bilibili.com/video/BV1iJ411d7jS)
 - [尚硅谷-宋红康JVM教程](https://www.bilibili.com/video/BV1PJ411n7xZ)
 - [Java Socket应用](https://www.imooc.com/learn/161)
+- [编译原理+操作系统+图形学](https://coding.imooc.com/class/chapter/432.html)
 
 4. Java8+
 - [字母哥课堂-恕我直言你可能真的不会java](https://www.bilibili.com/video/BV1sE411P7C1)
@@ -56,12 +58,19 @@
 - [MyBatisPlus入门](https://www.imooc.com/learn/1130)
 - [MyBatisPlus进阶](https://www.imooc.com/learn/1171)
 
-4. 进阶
+4. SpringMvc
 - [遇见狂神说-SpringMVC版通俗易懂](https://www.bilibili.com/video/BV1aE41167Tu)
 - [动力节点-SpringMVC从入门到精通](https://www.bilibili.com/video/BV1sk4y167pD)
 - [动力节点-SSM框架从入门到精通](https://www.bilibili.com/video/BV1Ug4y1i7W7)
 - [SpringMVC拦截器](https://www.imooc.com/learn/498)
-- [2小时手写MINI Spring MVC框架](http://www.imooc.com/learn/1203)
+
+5. 进阶
+- [Shiro安全框架入门](https://www.imooc.com/learn/977)
+- [Java高并发秒杀API之业务分析与DAO层](https://www.imooc.com/learn/587) 
+   [Java高并发秒杀API之Service层](https://www.imooc.com/learn/631) 
+   [Java高并发秒杀API之web层](https://www.imooc.com/learn/630)
+   [Java高并发秒杀API之高并发优化](https://www.imooc.com/learn/632)
+- [剑指Java自研框架，决胜Spring源码](https://coding.imooc.com/class/chapter/420.html)
 
 ## 03-springboot
 1. 基础
@@ -69,6 +78,7 @@
 - [遇见狂神说-SpringBoot通俗易懂](https://www.bilibili.com/video/BV1PE411i7CV)
 - [廖师兄-2小时SpringBoot红包程序](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-luckymoney)
 - [廖师兄-SpringBoot进阶之Web进阶](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-girl)
+- [Ajax跨域完全讲解](https://www.imooc.com/learn/947)
 
 2. 进阶
 - [小马哥-SpringBoot2.0深度实践之系列总览](http://www.imooc.com/learn/1058)
@@ -113,6 +123,7 @@
 3. Nginx
 
 4. ES
+- [ElasticSearch入门](https://www.imooc.com/learn/889)
 
 6. Other
 - [动力节点-FastDFS教程](https://www.bilibili.com/video/BV1ta4y1v7Kw)
