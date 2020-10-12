@@ -66,11 +66,11 @@
 
 5. 进阶
 - [Shiro安全框架入门](https://www.imooc.com/learn/977)
-- Java实现高并发秒杀API
-1. [Java高并发秒杀API之业务分析与DAO层](https://www.imooc.com/learn/587) 
-2. [Java高并发秒杀API之Service层](https://www.imooc.com/learn/631) 
-3. [Java高并发秒杀API之web层](https://www.imooc.com/learn/630)
-4. [Java高并发秒杀API之高并发优化](https://www.imooc.com/learn/632)
+- Java高并发秒杀API
+  + [Java高并发秒杀API之业务分析与DAO层](https://www.imooc.com/learn/587)
+  + [Java高并发秒杀API之Service层](https://www.imooc.com/learn/631)
+  + [Java高并发秒杀API之web层](https://www.imooc.com/learn/630)
+  + [Java高并发秒杀API之高并发优化](https://www.imooc.com/learn/632)
 - [剑指Java自研框架，决胜Spring源码](https://coding.imooc.com/class/chapter/420.html)
 
 ## 03-springboot
