@@ -6,6 +6,7 @@
 - [动力节点-Maven多模块管理](https://github.com/freesaber/JavaLearning/tree/master/01-javabasic/bjpowernode-maven-modules-project)
 - [IDEA神器使用技巧](https://www.imooc.com/learn/924)
 - [Java开发利器IDEA](https://www.bilibili.com/video/BV14t411z77T)
+- [开发工具IDEA从入门到爱不释手](https://www.imooc.com/learn/1160)
 
 2. 基础
 - [动力节点-Java零基础视频教程](https://www.bilibili.com/video/BV1P7411V7nQ)
@@ -67,6 +68,7 @@
 
 5. 进阶
 - [Shiro安全框架入门](https://www.imooc.com/learn/977)
+- [Spring Security开发安全的REST服务](https://coding.imooc.com/class/chapter/134.html)
 - Java高并发秒杀API
   + [Java高并发秒杀API之业务分析与DAO层](https://www.imooc.com/learn/587)
   + [Java高并发秒杀API之Service层](https://www.imooc.com/learn/631)
@@ -78,6 +80,7 @@
 1. 基础
 - [动力节点-SpringBoot教程](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/bjpowernode-springboot-project)
 - [遇见狂神说-SpringBoot通俗易懂](https://www.bilibili.com/video/BV1PE411i7CV)
+- [SpringBoot+MyBatis搭建迷你小程序](https://www.imooc.com/learn/945)
 - [廖师兄-2小时SpringBoot红包程序](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-luckymoney)
 - [廖师兄-SpringBoot进阶之Web进阶](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-girl)
 - [Ajax跨域完全讲解](https://www.imooc.com/learn/947)
@@ -88,6 +91,7 @@
 
 3. 实战
 - [廖师兄-SpringBoot企业微信点餐系统](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-sell)
+- [Java开发企业级权限管理系统](https://coding.imooc.com/class/chapter/149.html)
 
 ## 04-microservice
 1. 基础
@@ -126,6 +130,7 @@
 
 4. ES
 - [ElasticSearch入门](https://www.imooc.com/learn/889)
+- [Springboot + ElasticSearch 构建博客检索系统](https://www.imooc.com/learn/1161)
 
 6. Other
 - [动力节点-FastDFS教程](https://www.bilibili.com/video/BV1ta4y1v7Kw)
