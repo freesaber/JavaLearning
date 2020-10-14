@@ -46,6 +46,7 @@
 - [Spring框架小白的蜕变](https://www.imooc.com/learn/1108)
 - [遇见狂神说-Spring5通俗易懂](https://www.bilibili.com/video/BV1WE411d7Dv)
 - [动力节点-Spring框架从入门到精通](https://www.bilibili.com/video/BV1nz4y1d7uy)
+- [模式的秘密---代理模式](https://www.imooc.com/learn/214)
 - [探秘Spring AOP](https://www.imooc.com/learn/869)
 - [Spring事务管理](https://www.imooc.com/learn/478)
 
@@ -62,6 +63,7 @@
 - [动力节点-SpringMVC从入门到精通](https://www.bilibili.com/video/BV1sk4y167pD)
 - [动力节点-SSM框架从入门到精通](https://www.bilibili.com/video/BV1Ug4y1i7W7)
 - [SpringMVC拦截器](https://www.imooc.com/learn/498)
+- [手写MINI Spring MVC框架](https://www.imooc.com/learn/1203)
 
 5. 进阶
 - [Shiro安全框架入门](https://www.imooc.com/learn/977)
