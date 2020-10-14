@@ -43,9 +43,9 @@
 - [Java Web开发技术应用——监听器](https://www.imooc.com/learn/271)
 
 2. Spring
+- [Spring框架小白的蜕变](https://www.imooc.com/learn/1108)
 - [遇见狂神说-Spring5通俗易懂](https://www.bilibili.com/video/BV1WE411d7Dv)
 - [动力节点-Spring框架从入门到精通](https://www.bilibili.com/video/BV1nz4y1d7uy)
-- [Spring框架小白的蜕变](https://www.imooc.com/learn/1108)
 - [探秘Spring AOP](https://www.imooc.com/learn/869)
 - [Spring AOP使用及实现原理分析](https://www.bilibili.com/video/BV1HZ4y1p7F1)
 - [Spring事务管理](https://www.imooc.com/learn/478)
