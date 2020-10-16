@@ -29,7 +29,7 @@
 - [遇见狂神说-JVM快速入门篇](https://www.bilibili.com/video/BV1iJ411d7jS)
 - [尚硅谷-宋红康JVM教程](https://www.bilibili.com/video/BV1PJ411n7xZ)
 - [Java Socket应用](https://www.imooc.com/learn/161)
-- [编译原理+操作系统+图形学](https://coding.imooc.com/class/chapter/432.html)
+- [程序员三大浪漫--编译原理+操作系统+图形学](https://coding.imooc.com/class/chapter/432.html)
 
 4. Java8+
 - [字母哥课堂-恕我直言你可能真的不会java](https://www.bilibili.com/video/BV1sE411P7C1)
