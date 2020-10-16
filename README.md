@@ -85,11 +85,6 @@
 - [廖师兄-SpringBoot进阶之Web进阶](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-girl)
 - [Ajax跨域完全讲解](https://www.imooc.com/learn/947)
 
-2. 权限
-- [Shiro安全框架入门](https://www.imooc.com/learn/977)
-- [Spring Security开发安全的REST服务](https://coding.imooc.com/class/chapter/134.html)
-- [Java开发企业级权限管理系统](https://coding.imooc.com/class/chapter/149.html)
-
 2. 进阶
 - [小马哥-SpringBoot2.0深度实践之系列总览](http://www.imooc.com/learn/1058)
 - [小马哥-SpringBoot2.0深度实践之核心技术篇](https://coding.imooc.com/class/252.html)
@@ -133,6 +128,11 @@
 4. ES
 - [ElasticSearch入门](https://www.imooc.com/learn/889)
 - [Springboot + ElasticSearch 构建博客检索系统](https://www.imooc.com/learn/1161)
+
+5. 权限
+- [Shiro安全框架入门](https://www.imooc.com/learn/977)
+- [Spring Security开发安全的REST服务](https://coding.imooc.com/class/chapter/134.html)
+- [Java开发企业级权限管理系统](https://coding.imooc.com/class/chapter/149.html)
 
 6. Other
 - [动力节点-FastDFS教程](https://www.bilibili.com/video/BV1ta4y1v7Kw)
