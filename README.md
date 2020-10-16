@@ -9,6 +9,7 @@
 - [开发工具IDEA从入门到爱不释手](https://www.imooc.com/learn/1160)
 
 2. 基础
+- [毕向东Java系列课程--dqug](https://pan.baidu.com/s/19d3KtKCJ1SZ5AidiAo267A)
 - [动力节点-Java零基础视频教程](https://www.bilibili.com/video/BV1P7411V7nQ)
 - [博学谷-Java基础精讲](https://www.bilibili.com/video/BV1gE411o7eC)
 - [传智播客-Java基础篇](https://www.bilibili.com/video/BV1ha4y147NZ)
