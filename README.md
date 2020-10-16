@@ -69,8 +69,6 @@
 - [手写MINI Spring MVC框架](https://www.imooc.com/learn/1203)
 
 5. 进阶
-- [Shiro安全框架入门](https://www.imooc.com/learn/977)
-- [Spring Security开发安全的REST服务](https://coding.imooc.com/class/chapter/134.html)
 - Java高并发秒杀API
   + [Java高并发秒杀API之业务分析与DAO层](https://www.imooc.com/learn/587)
   + [Java高并发秒杀API之Service层](https://www.imooc.com/learn/631)
@@ -87,13 +85,15 @@
 - [廖师兄-SpringBoot进阶之Web进阶](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-girl)
 - [Ajax跨域完全讲解](https://www.imooc.com/learn/947)
 
+2. 权限
+- [Shiro安全框架入门](https://www.imooc.com/learn/977)
+- [Spring Security开发安全的REST服务](https://coding.imooc.com/class/chapter/134.html)
+- [Java开发企业级权限管理系统](https://coding.imooc.com/class/chapter/149.html)
+
 2. 进阶
 - [小马哥-SpringBoot2.0深度实践之系列总览](http://www.imooc.com/learn/1058)
 - [小马哥-SpringBoot2.0深度实践之核心技术篇](https://coding.imooc.com/class/252.html)
-
-3. 实战
 - [廖师兄-SpringBoot企业微信点餐系统](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-sell)
-- [Java开发企业级权限管理系统](https://coding.imooc.com/class/chapter/149.html)
 
 ## 04-microservice
 1. 基础
