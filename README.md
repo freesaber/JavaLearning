@@ -11,6 +11,7 @@
 
 2. 基础
 - [毕向东Java系列课程--dqug](https://pan.baidu.com/s/19d3KtKCJ1SZ5AidiAo267A)
+- [遇见狂神说-Java零基础学习视频通俗易懂](https://www.bilibili.com/video/BV12J41137hu)
 - [动力节点-Java零基础视频教程](https://www.bilibili.com/video/BV1P7411V7nQ)
 - [博学谷-Java基础精讲](https://www.bilibili.com/video/BV1gE411o7eC)
 - [传智播客-Java基础篇](https://www.bilibili.com/video/BV1ha4y147NZ)
@@ -86,14 +87,20 @@
 - [廖师兄-SpringBoot进阶之Web进阶](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-girl)
 - [Ajax跨域完全讲解](https://www.imooc.com/learn/947)
 
-2. 进阶
+2. 缓存
+- [遇见狂神说-Redis最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1S54y1R7SB)
+
+3. 进阶
 - [小马哥-SpringBoot2.0深度实践之系列总览](http://www.imooc.com/learn/1058)
 - [小马哥-SpringBoot2.0深度实践之核心技术篇](https://coding.imooc.com/class/252.html)
 - [廖师兄-SpringBoot企业微信点餐系统](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-sell)
+- [遇见狂神说-SpringBoot项目实战：企业项目管理系统](https://www.bilibili.com/video/BV1b4411q7DX)
 
 ## 04-microservice
 1. 基础
-
+- [第一个docker化的java应用](https://www.imooc.com/learn/824)
+- [遇见狂神说-Docker教程通俗易懂](https://www.bilibili.com/video/BV1og4y1q7M4)
+- [鲁班在线-Docker核心技术与基本原理](https://www.bilibili.com/video/BV13J411e7QM)
 
 2. Dubbo
 - [动力节点-Dubbo教程](https://www.bilibili.com/video/BV1Sk4y197eD)
@@ -101,36 +108,30 @@
 
 3. SpringCloud
 - [廖师兄-SpringCloud微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx-springcloud)
+- [遇见狂神说-SpringCloud最新教程IDEA版](https://www.bilibili.com/video/BV1jJ411S7xr)
 
-## 05-cicd
-1. 基础
-- [第一个docker化的java应用](https://www.imooc.com/learn/824)
-- [遇见狂神说-Docker最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1og4y1q7M4)
-- [Docker核心技术与基本原理(鲁班在线)](https://www.bilibili.com/video/BV13J411e7QM)
-
-2. 进阶
-- [用Jenkins自动化搭建测试环境](https://www.imooc.com/learn/1008)
-- [Crontab不知疲倦的时间表](https://www.imooc.com/learn/1009)
-- [刘果国-k8s微服务容器化实践](https://coding.imooc.com/class/198.html)
-- [刘果国-k8s生产级实践指南](https://coding.imooc.com/class/335.html)
-- [系统学习Docker 践行DevOps理念](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/docker-devops)
-
-## 06-etc
-1. MQ
+4. MQ
 - [编程不良人-RabbitMQ整合SpringBoot2.x](https://www.bilibili.com/video/BV1dE411K7MG)
 - [动力节点-RabbitMQ实战教程](https://www.bilibili.com/video/BV1Ap4y1D7tU)
 - [慕课网-RabbitMQ消息中间件技术精讲](https://coding.imooc.com/class/chapter/262.html#Anchor)
 - [慕课网-Kafka多维度系统精讲](https://coding.imooc.com/class/chapter/434.html#Anchor)
 
-2. Redis
+## 05-cicd
+1. 基础
+- [用Jenkins自动化搭建测试环境](https://www.imooc.com/learn/1008)
+- [Crontab不知疲倦的时间表](https://www.imooc.com/learn/1009)
 
-3. Nginx
+2. 进阶
+- [刘果国-k8s微服务容器化实践](https://coding.imooc.com/class/198.html)
+- [刘果国-k8s生产级实践指南](https://coding.imooc.com/class/335.html)
+- [系统学习Docker 践行DevOps理念](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/docker-devops)
 
-4. ES
+## 06-etc
+1. ES
 - [ElasticSearch入门](https://www.imooc.com/learn/889)
 - [Springboot + ElasticSearch 构建博客检索系统](https://www.imooc.com/learn/1161)
 
-5. 权限
+3. 权限
 - [Shiro安全框架入门](https://www.imooc.com/learn/977)
 - [遇见狂神说-SpringBoot整合Shiro框架](https://www.bilibili.com/video/BV1NE411i7S8)
 - [遇见狂神说-SpringBoot整合SpringSecurity](https://www.bilibili.com/video/BV1KE411i7bC)
@@ -138,7 +139,7 @@
 - [尚硅谷-SpringSecurity框架教程](https://www.bilibili.com/video/BV15a411A7kP)
 - [Java开发企业级权限管理系统](https://coding.imooc.com/class/chapter/149.html)
 
-6. Other
+4. Other
 - [动力节点-FastDFS教程](https://www.bilibili.com/video/BV1ta4y1v7Kw)
 - [遇见狂神说-一小时掌握Swagger技术](https://www.bilibili.com/video/BV1Y441197Lw)
 
