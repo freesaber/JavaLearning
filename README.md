@@ -7,6 +7,7 @@
 - [IDEA神器使用技巧](https://www.imooc.com/learn/924)
 - [Java开发利器IDEA](https://www.bilibili.com/video/BV14t411z77T)
 - [开发工具IDEA从入门到爱不释手](https://www.imooc.com/learn/1160)
+- [全方位入门git](https://www.imooc.com/learn/1278)
 
 2. 基础
 - [毕向东Java系列课程--dqug](https://pan.baidu.com/s/19d3KtKCJ1SZ5AidiAo267A)
@@ -44,15 +45,7 @@
 - [Java Web开发技术应用——过滤器](https://www.imooc.com/learn/213)
 - [Java Web开发技术应用——监听器](https://www.imooc.com/learn/271)
 
-2. Spring
-- [Spring框架小白的蜕变](https://www.imooc.com/learn/1108)
-- [遇见狂神说-Spring5通俗易懂](https://www.bilibili.com/video/BV1WE411d7Dv)
-- [动力节点-Spring框架从入门到精通](https://www.bilibili.com/video/BV1nz4y1d7uy)
-- [模式的秘密---代理模式](https://www.imooc.com/learn/214)
-- [探秘Spring AOP](https://www.imooc.com/learn/869)
-- [Spring事务管理](https://www.imooc.com/learn/478)
-
-3. Mybatis
+2. Mybatis
 - [遇见狂神说-Mybatis版通俗易懂](https://www.bilibili.com/video/BV1NE411Q7Nx)
 - [动力节点-MyBatis从入门到精通](https://www.bilibili.com/video/BV185411s7Ry)
 - [通过自动回复机器人学Mybatis---基础版](https://www.imooc.com/learn/154)
@@ -61,6 +54,14 @@
 - [遇见狂神说-MyBatisPlus通俗易懂](https://www.bilibili.com/video/BV17E411N7KN)
 - [MyBatisPlus入门](https://www.imooc.com/learn/1130)
 - [MyBatisPlus进阶](https://www.imooc.com/learn/1171)
+
+3. Spring
+- [Spring框架小白的蜕变](https://www.imooc.com/learn/1108)
+- [遇见狂神说-Spring5通俗易懂](https://www.bilibili.com/video/BV1WE411d7Dv)
+- [动力节点-Spring框架从入门到精通](https://www.bilibili.com/video/BV1nz4y1d7uy)
+- [模式的秘密---代理模式](https://www.imooc.com/learn/214)
+- [探秘Spring AOP](https://www.imooc.com/learn/869)
+- [Spring事务管理](https://www.imooc.com/learn/478)
 
 4. SpringMvc
 - [遇见狂神说-SpringMVC版通俗易懂](https://www.bilibili.com/video/BV1aE41167Tu)
@@ -132,11 +133,15 @@
 
 5. 权限
 - [Shiro安全框架入门](https://www.imooc.com/learn/977)
+- [遇见狂神说-SpringBoot整合Shiro框架](https://www.bilibili.com/video/BV1NE411i7S8)
+- [遇见狂神说-SpringBoot整合SpringSecurity](https://www.bilibili.com/video/BV1KE411i7bC)
 - [Spring Security开发安全的REST服务](https://coding.imooc.com/class/chapter/134.html)
+- [尚硅谷-SpringSecurity框架教程](https://www.bilibili.com/video/BV15a411A7kP)
 - [Java开发企业级权限管理系统](https://coding.imooc.com/class/chapter/149.html)
 
 6. Other
 - [动力节点-FastDFS教程](https://www.bilibili.com/video/BV1ta4y1v7Kw)
+- [遇见狂神说-一小时掌握Swagger技术](https://www.bilibili.com/video/BV1Y441197Lw)
 
 
 ## 说明
