@@ -66,7 +66,6 @@
 4. SpringMvc
 - [遇见狂神说-SpringMVC版通俗易懂](https://www.bilibili.com/video/BV1aE41167Tu)
 - [动力节点-SpringMVC从入门到精通](https://www.bilibili.com/video/BV1sk4y167pD)
-- [动力节点-SSM框架从入门到精通](https://www.bilibili.com/video/BV1Ug4y1i7W7)
 - [SpringMVC拦截器](https://www.imooc.com/learn/498)
 - [手写MINI Spring MVC框架](https://www.imooc.com/learn/1203)
 
