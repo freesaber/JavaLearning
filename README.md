@@ -4,6 +4,7 @@
 1. 开发环境
 - [动力节点-Maven教程](https://www.bilibili.com/video/BV1st411p7E4)
 - [动力节点-Maven多模块管理](https://github.com/freesaber/JavaLearning/tree/master/01-javabasic/bjpowernode-maven-modules-project)
+- [Maven项目依赖管理](https://www.imooc.com/learn/1282)
 - [IDEA神器使用技巧](https://www.imooc.com/learn/924)
 - [Java开发利器IDEA](https://www.bilibili.com/video/BV14t411z77T)
 - [开发工具IDEA从入门到爱不释手](https://www.imooc.com/learn/1160)
@@ -32,11 +33,13 @@
 - [尚硅谷-宋红康JVM教程](https://www.bilibili.com/video/BV1PJ411n7xZ)
 - [Java Socket应用](https://www.imooc.com/learn/161)
 - [程序员三大浪漫--编译原理+操作系统+图形学](https://coding.imooc.com/class/chapter/432.html)
+- [理论+实战 构建完整JVM知识体系](https://coding.imooc.com/class/chapter/429.html)
 
 4. Java8+
 - [字母哥课堂-恕我直言你可能真的不会java](https://www.bilibili.com/video/BV1sE411P7C1)
 - [Java9之模块系统](https://www.imooc.com/learn/997)
 - [JDK11&12新特性解读](https://www.imooc.com/learn/553)
+- [JAVA 函数式编程](https://www.imooc.com/learn/1284)
 
 ## 02-ssm
 1. 基础
@@ -105,6 +108,7 @@
 2. Dubbo
 - [动力节点-Dubbo教程](https://www.bilibili.com/video/BV1Sk4y197eD)
 - [ZooKeeper分布式专题与Dubbo微服务入门](https://coding.imooc.com/class/201.html)
+- [自己动手实现RPC框架](https://www.imooc.com/learn/1158)
 
 3. SpringCloud
 - [廖师兄-SpringCloud微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx-springcloud)
