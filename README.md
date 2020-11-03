@@ -168,10 +168,11 @@
 
 4. 大数据
 - [基于Storm构建实时热力分布项目实战](https://coding.imooc.com/class/chapter/172.html)
+- [基于Storm构建实时热力分布项目实战](https://coding.imooc.com/class/chapter/172.html)
 
 5. Other
 - [动力节点-FastDFS教程](https://www.bilibili.com/video/BV1ta4y1v7Kw)
-- [遇见狂神说-一小时掌握Swagger技术](https://www.bilibili.com/video/BV1Y441197Lw)
+- [学习Scala进击大数据Spark生态圈](https://coding.imooc.com/class/chapter/215.html)
 
 
 ## 说明
