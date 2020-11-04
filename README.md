@@ -151,6 +151,7 @@
 - [k8s微服务容器化实践](https://coding.imooc.com/class/198.html)
 - [k8s生产级实践指南](https://coding.imooc.com/class/335.html)
 - [系统学习Docker践行DevOps理念](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/docker-devops)
+- [Jenkins+Ansible+Gitlab自动化部署三剑客](https://coding.imooc.com/class/chapter/253.html)
 
 ## 06-etc
 1. ES
@@ -168,11 +169,11 @@
 
 4. 大数据
 - [基于Storm构建实时热力分布项目实战](https://coding.imooc.com/class/chapter/172.html)
-- [基于Storm构建实时热力分布项目实战](https://coding.imooc.com/class/chapter/172.html)
+- [学习Scala进击大数据Spark生态圈](https://coding.imooc.com/class/chapter/215.html)
 
 5. Other
 - [动力节点-FastDFS教程](https://www.bilibili.com/video/BV1ta4y1v7Kw)
-- [学习Scala进击大数据Spark生态圈](https://coding.imooc.com/class/chapter/215.html)
+- [遇见狂神说-一小时掌握Swagger技术](https://www.bilibili.com/video/BV1Y441197Lw)
 
 
 ## 说明
