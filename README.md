@@ -94,6 +94,7 @@
 - [SpringBoot+MyBatis搭建迷你小程序](https://www.imooc.com/learn/945)
 - [2小时SpringBoot红包程序](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-luckymoney)
 - [SpringBoot进阶之Web进阶](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-girl)
+- [SpringBoot构建电商基础秒杀项目](https://www.imooc.com/learn/1079)
 - [Ajax跨域完全讲解](https://www.imooc.com/learn/947)
 
 2. 缓存
@@ -114,6 +115,7 @@
 ## 04-microservice
 1. 基础
 - [第一个docker化的java应用](https://www.imooc.com/learn/824)
+- [Docker入门](https://www.imooc.com/learn/867)
 - [遇见狂神说-Docker教程通俗易懂](https://www.bilibili.com/video/BV1og4y1q7M4)
 - [鲁班在线-Docker核心技术与基本原理](https://www.bilibili.com/video/BV13J411e7QM)
 
@@ -168,6 +170,8 @@
 - [Java开发企业级权限管理系统](https://coding.imooc.com/class/chapter/149.html)
 
 4. 大数据
+- [HBase 存储原理剖析](https://www.imooc.com/learn/996)
+- [Hadoop基础及演练](https://www.imooc.com/learn/928)
 - [基于Storm构建实时热力分布项目实战](https://coding.imooc.com/class/chapter/172.html)
 - [学习Scala进击大数据Spark生态圈](https://coding.imooc.com/class/chapter/215.html)
 
