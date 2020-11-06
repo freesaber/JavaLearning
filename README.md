@@ -113,23 +113,19 @@
 - [Java通用型支付+电商平台双系统实战](https://coding.imooc.com/class/chapter/392.html)
 
 ## 04-microservice
-1. 基础
-- [遇见狂神说-Docker教程通俗易懂](https://www.bilibili.com/video/BV1og4y1q7M4)
-- [Docker最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1sK4y1s7Cj)
-
-2. Dubbo
+1. Dubbo
 - [动力节点-Dubbo教程](https://www.bilibili.com/video/BV1Sk4y197eD)
 - [ZooKeeper分布式专题与Dubbo微服务入门](https://coding.imooc.com/class/201.html)
 - [自己动手实现RPC框架](https://www.imooc.com/learn/1158)
 - [应用Dubbo框架打造仿猫眼项目 理解微服务核心思想](https://coding.imooc.com/class/273.html)
 
-3. SpringCloud
-- [Spring Cloud Alibaba微服务从入门到进阶](https://coding.imooc.com/class/chapter/358.html)
-- [SpringCloud微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx-springcloud)
+2. SpringCloud
 - [遇见狂神说-SpringCloud最新教程IDEA版](https://www.bilibili.com/video/BV1jJ411S7xr)
+- [SpringCloud微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx-springcloud)
 - [SpringCloud + Vue 前后端分离 开发企业级在线视频课程系统](https://coding.imooc.com/class/chapter/416.html)
+- [Spring Cloud Alibaba微服务从入门到进阶](https://coding.imooc.com/class/chapter/358.html)
 
-4. MQ
+3. MQ
 - [编程不良人-RabbitMQ整合SpringBoot2.x](https://www.bilibili.com/video/BV1dE411K7MG)
 - [动力节点-RabbitMQ实战教程](https://www.bilibili.com/video/BV1Ap4y1D7tU)
 - [RabbitMQ消息中间件技术精讲](https://coding.imooc.com/class/chapter/262.html)
@@ -137,13 +133,15 @@
 - [RocketMQ核心技术精讲与高并发抗压实战](https://coding.imooc.com/class/chapter/292.html)
 - [Kafka多维度系统精讲](https://coding.imooc.com/class/chapter/434.html)
 
-5. 其他
+4. 其他
 - [Java秒杀系统方案优化 高性能高并发实战](https://coding.imooc.com/class/chapter/168.html)
 - [分布式事务实践 解决数据一致性](https://coding.imooc.com/class/chapter/237.html)
 - [Nginx入门到实践](https://coding.imooc.com/class/chapter/121.html)
 
 ## 05-cicd
 1. 基础
+- [遇见狂神说-Docker教程通俗易懂](https://www.bilibili.com/video/BV1og4y1q7M4)
+- [Docker最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1sK4y1s7Cj)
 - [用Jenkins自动化搭建测试环境](https://www.imooc.com/learn/1008)
 - [Crontab不知疲倦的时间表](https://www.imooc.com/learn/1009)
 
@@ -161,8 +159,6 @@
 
 3. 权限
 - [Shiro安全框架入门](https://www.imooc.com/learn/977)
-- [遇见狂神说-SpringBoot整合Shiro框架](https://www.bilibili.com/video/BV1NE411i7S8)
-- [遇见狂神说-SpringBoot整合SpringSecurity](https://www.bilibili.com/video/BV1KE411i7bC)
 - [Spring Security开发安全的REST服务](https://coding.imooc.com/class/chapter/134.html)
 - [尚硅谷-SpringSecurity框架教程](https://www.bilibili.com/video/BV15a411A7kP)
 - [Java开发企业级权限管理系统](https://coding.imooc.com/class/chapter/149.html)
