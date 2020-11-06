@@ -99,7 +99,7 @@
 
 2. 缓存
 - [遇见狂神说-Redis最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1S54y1R7SB)
-- [一站式学习Redis 从入门到高可用分布式实践](https://coding.imooc.com/class/chapter/151.html)
+- [Redis从入门到高可用分布式实践](https://coding.imooc.com/class/chapter/151.html)
 
 3. 进阶
 - [Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解](https://coding.imooc.com/class/chapter/460.html)
@@ -114,8 +114,6 @@
 
 ## 04-microservice
 1. 基础
-- [第一个docker化的java应用](https://www.imooc.com/learn/824)
-- [Docker入门](https://www.imooc.com/learn/867)
 - [遇见狂神说-Docker教程通俗易懂](https://www.bilibili.com/video/BV1og4y1q7M4)
 - [鲁班在线-Docker核心技术与基本原理](https://www.bilibili.com/video/BV13J411e7QM)
 
