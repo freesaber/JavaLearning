@@ -12,7 +12,7 @@
 
 2. 基础
 - [毕向东Java系列课程--dqug](https://pan.baidu.com/s/19d3KtKCJ1SZ5AidiAo267A)
-- [遇见狂神说-Java零基础学习视频通俗易懂](https://www.bilibili.com/video/BV12J41137hu)
+- [狂神说-Java零基础学习视频通俗易懂](https://www.bilibili.com/video/BV12J41137hu)
 - [动力节点-Java零基础视频教程](https://www.bilibili.com/video/BV1P7411V7nQ)
 - [博学谷-Java基础精讲](https://www.bilibili.com/video/BV1gE411o7eC)
 - [传智播客-Java基础篇](https://www.bilibili.com/video/BV1ha4y147NZ)
@@ -22,14 +22,14 @@
 - [XML文件写入](https://www.imooc.com/learn/251)
 - [反射](https://www.imooc.com/learn/199)
 - [全面解析Java注解](https://www.imooc.com/learn/456)
-- [遇见狂神说-注解和反射](https://www.bilibili.com/video/BV1p4411P7V3)
+- [狂神说-注解和反射](https://www.bilibili.com/video/BV1p4411P7V3)
 
 3. 进阶
-- [遇见狂神说-多线程详解](https://www.bilibili.com/video/BV1V4411p7EF)
+- [狂神说-多线程详解](https://www.bilibili.com/video/BV1V4411p7EF)
 - [细说多线程之Thread VS Runnable](https://www.imooc.com/learn/312)
 - [细说Java多线程之内存可见性](https://www.imooc.com/learn/352)
 - [ThreadLocal](https://www.imooc.com/learn/1217)
-- [遇见狂神说-JVM快速入门篇](https://www.bilibili.com/video/BV1iJ411d7jS)
+- [狂神说-JVM快速入门篇](https://www.bilibili.com/video/BV1iJ411d7jS)
 - [尚硅谷-宋红康JVM教程](https://www.bilibili.com/video/BV1PJ411n7xZ)
 - [Java Socket应用](https://www.imooc.com/learn/161)
 - [程序员三大浪漫--编译原理+操作系统+图形学](https://coding.imooc.com/class/chapter/432.html)
@@ -45,32 +45,32 @@
 
 ## 02-ssm
 1. 基础
-- [遇见狂神说-JavaWeb入门到实战](https://www.bilibili.com/video/BV12J411M7Sj)
+- [狂神说-JavaWeb入门到实战](https://www.bilibili.com/video/BV12J411M7Sj)
 - [Java遇见Html——Servlet篇](https://www.imooc.com/learn/269)
 - [Java遇见Html——JSP篇](https://www.imooc.com/learn/166)
 - [Java Web开发技术应用——过滤器](https://www.imooc.com/learn/213)
 - [Java Web开发技术应用——监听器](https://www.imooc.com/learn/271)
 
 2. Mybatis
-- [遇见狂神说-Mybatis版通俗易懂](https://www.bilibili.com/video/BV1NE411Q7Nx)
+- [狂神说-Mybatis版通俗易懂](https://www.bilibili.com/video/BV1NE411Q7Nx)
 - [动力节点-MyBatis从入门到精通](https://www.bilibili.com/video/BV185411s7Ry)
 - [通过自动回复机器人学Mybatis---基础版](https://www.imooc.com/learn/154)
 - [通过自动回复机器人学Mybatis---加强版](https://www.imooc.com/learn/260)
 - [Mybatis缓存详解](https://www.imooc.com/learn/1238)
-- [遇见狂神说-MyBatisPlus通俗易懂](https://www.bilibili.com/video/BV17E411N7KN)
+- [狂神说-MyBatisPlus通俗易懂](https://www.bilibili.com/video/BV17E411N7KN)
 - [MyBatisPlus入门](https://www.imooc.com/learn/1130)
 - [MyBatisPlus进阶](https://www.imooc.com/learn/1171)
 
 3. Spring
 - [Spring框架小白的蜕变](https://www.imooc.com/learn/1108)
-- [遇见狂神说-Spring5通俗易懂](https://www.bilibili.com/video/BV1WE411d7Dv)
+- [狂神说-Spring5通俗易懂](https://www.bilibili.com/video/BV1WE411d7Dv)
 - [动力节点-Spring框架从入门到精通](https://www.bilibili.com/video/BV1nz4y1d7uy)
 - [模式的秘密---代理模式](https://www.imooc.com/learn/214)
 - [探秘Spring AOP](https://www.imooc.com/learn/869)
 - [Spring事务管理](https://www.imooc.com/learn/478)
 
 4. SpringMvc
-- [遇见狂神说-SpringMVC版通俗易懂](https://www.bilibili.com/video/BV1aE41167Tu)
+- [狂神说-SpringMVC版通俗易懂](https://www.bilibili.com/video/BV1aE41167Tu)
 - [动力节点-SpringMVC从入门到精通](https://www.bilibili.com/video/BV1sk4y167pD)
 - [SpringMVC拦截器](https://www.imooc.com/learn/498)
 - [手写MINI Spring MVC框架](https://www.imooc.com/learn/1203)
@@ -90,7 +90,7 @@
 ## 03-springboot
 1. 基础
 - [动力节点-SpringBoot教程](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/bjpowernode-springboot-project)
-- [遇见狂神说-SpringBoot通俗易懂](https://www.bilibili.com/video/BV1PE411i7CV)
+- [狂神说-SpringBoot通俗易懂](https://www.bilibili.com/video/BV1PE411i7CV)
 - [SpringBoot+MyBatis搭建迷你小程序](https://www.imooc.com/learn/945)
 - [2小时SpringBoot红包程序](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-luckymoney)
 - [SpringBoot进阶之Web进阶](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-girl)
@@ -98,7 +98,7 @@
 - [Ajax跨域完全讲解](https://www.imooc.com/learn/947)
 
 2. 缓存
-- [遇见狂神说-Redis最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1S54y1R7SB)
+- [狂神说-Redis最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1S54y1R7SB)
 - [Redis从入门到高可用分布式实践](https://coding.imooc.com/class/chapter/151.html)
 
 3. 进阶
@@ -112,7 +112,7 @@
 
 4. 实战
 - [SpringBoot企业微信点餐系统](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-sell)
-- [遇见狂神说-SpringBoot项目实战：企业项目管理系统](https://www.bilibili.com/video/BV1b4411q7DX)
+- [狂神说-SpringBoot项目实战：企业项目管理系统](https://www.bilibili.com/video/BV1b4411q7DX)
 - [Java短视频小程序开发全栈式实战项目](https://coding.imooc.com/class/chapter/217.html)
 - [Java通用型支付+电商平台双系统实战](https://coding.imooc.com/class/chapter/392.html)
 
@@ -124,7 +124,7 @@
 - [应用Dubbo框架打造仿猫眼项目 理解微服务核心思想](https://coding.imooc.com/class/273.html)
 
 2. SpringCloud
-- [遇见狂神说-SpringCloud最新教程IDEA版](https://www.bilibili.com/video/BV1jJ411S7xr)
+- [狂神说-SpringCloud最新教程IDEA版](https://www.bilibili.com/video/BV1jJ411S7xr)
 - [SpringCloud微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx-springcloud)
 - [SpringCloud + Vue 前后端分离 开发企业级在线视频课程系统](https://coding.imooc.com/class/chapter/416.html)
 - [Spring Cloud Alibaba微服务从入门到进阶](https://coding.imooc.com/class/chapter/358.html)
@@ -144,8 +144,8 @@
 
 ## 05-cicd
 1. 基础
-- [遇见狂神说-Docker基础](https://www.bilibili.com/video/BV1og4y1q7M4)
-- [遇见狂神说-Docker进阶](https://www.bilibili.com/video/BV1kv411q7Qc)
+- [狂神说-Docker基础](https://www.bilibili.com/video/BV1og4y1q7M4)
+- [狂神说-Docker进阶](https://www.bilibili.com/video/BV1kv411q7Qc)
 - [Docker最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1sK4y1s7Cj)
 - [用Jenkins自动化搭建测试环境](https://www.imooc.com/learn/1008)
 - [Crontab不知疲倦的时间表](https://www.imooc.com/learn/1009)
@@ -158,7 +158,7 @@
 
 ## 06-etc
 1. ES
-- [遇见狂神说ElasticSearch7.6](https://www.bilibili.com/video/BV17a4y1x7zq)
+- [狂神说ElasticSearch7.6](https://www.bilibili.com/video/BV17a4y1x7zq)
 
 3. 权限
 - [Shiro安全框架入门](https://www.imooc.com/learn/977)
@@ -174,7 +174,7 @@
 
 5. Other
 - [动力节点-FastDFS教程](https://www.bilibili.com/video/BV1ta4y1v7Kw)
-- [遇见狂神说-一小时掌握Swagger技术](https://www.bilibili.com/video/BV1Y441197Lw)
+- [狂神说-一小时掌握Swagger技术](https://www.bilibili.com/video/BV1Y441197Lw)
 
 
 ## 说明
