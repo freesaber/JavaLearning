@@ -144,22 +144,21 @@
 
 ## 05-cicd
 1. 基础
-- [遇见狂神说-Docker教程通俗易懂](https://www.bilibili.com/video/BV1og4y1q7M4)
+- [遇见狂神说-Docker基础](https://www.bilibili.com/video/BV1og4y1q7M4)
+- [遇见狂神说-Docker进阶](https://www.bilibili.com/video/BV1kv411q7Qc)
 - [Docker最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1sK4y1s7Cj)
 - [用Jenkins自动化搭建测试环境](https://www.imooc.com/learn/1008)
 - [Crontab不知疲倦的时间表](https://www.imooc.com/learn/1009)
+- [Jenkins+Ansible+Gitlab自动化部署三剑客](https://coding.imooc.com/class/chapter/253.html)
 
-2. 进阶
+2. k8s
 - [k8s微服务容器化实践](https://coding.imooc.com/class/198.html)
 - [k8s生产级实践指南](https://coding.imooc.com/class/335.html)
-- [系统学习Docker践行DevOps理念](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/docker-devops)
-- [Jenkins+Ansible+Gitlab自动化部署三剑客](https://coding.imooc.com/class/chapter/253.html)
+
 
 ## 06-etc
 1. ES
-- [ElasticSearch入门](https://www.imooc.com/learn/889)
-- [Springboot + ElasticSearch构建博客检索系统](https://www.imooc.com/learn/1161)
-- [ElasticStack从入门到实践](https://coding.imooc.com/class/chapter/181.html)
+- [遇见狂神说ElasticSearch7.6](https://www.bilibili.com/video/BV17a4y1x7zq)
 
 3. 权限
 - [Shiro安全框架入门](https://www.imooc.com/learn/977)
