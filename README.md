@@ -114,7 +114,8 @@
 ## 04-microservice
 1. Dubbo
 - [自己动手实现RPC框架](https://www.imooc.com/learn/1158)
-- [应用Dubbo框架打造仿猫眼项目 理解微服务核心思想](https://coding.imooc.com/class/273.html)
+- [尚硅谷-Dubbo教程](https://www.bilibili.com/video/BV1ns411c7jV)
+- [应用Dubbo框架打造仿猫眼项目](https://coding.imooc.com/class/273.html)
 
 2. SpringCloud
 - [狂神说-SpringCloud最新教程IDEA版](https://www.bilibili.com/video/BV1jJ411S7xr)
