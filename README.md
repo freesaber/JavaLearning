@@ -79,7 +79,7 @@
   + [Java高并发秒杀API之web层](https://www.imooc.com/learn/630)
   + [Java高并发秒杀API之高并发优化](https://www.imooc.com/learn/632)
 
-6. MySql
+5. MySql
 - [全面讲解MySQL架构设计](https://coding.imooc.com/class/chapter/49.html)
 
 
