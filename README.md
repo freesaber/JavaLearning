@@ -18,13 +18,10 @@
 - [动力节点-Java零基础视频教程](https://www.bilibili.com/video/BV1P7411V7nQ)
 - [博学谷-Java基础精讲](https://www.bilibili.com/video/BV1gE411o7eC)
 - [传智播客-Java基础篇](https://www.bilibili.com/video/BV1ha4y147NZ)
+- [狂神说-注解和反射](https://www.bilibili.com/video/BV1p4411P7V3)
+- [全面解析Java注解](https://www.imooc.com/learn/456)
 - [二进制与Java中的基本数据类型](https://www.imooc.com/learn/1223)
 - [Java IO流](https://www.imooc.com/learn/123)
-- [XML文件读取](https://www.imooc.com/learn/171)
-- [XML文件写入](https://www.imooc.com/learn/251)
-- [反射](https://www.imooc.com/learn/199)
-- [全面解析Java注解](https://www.imooc.com/learn/456)
-- [狂神说-注解和反射](https://www.bilibili.com/video/BV1p4411P7V3)
 
 3. 进阶
 - [狂神说-多线程详解](https://www.bilibili.com/video/BV1V4411p7EF)
@@ -40,7 +37,7 @@
 - [Socket网络编程进阶与实战](https://coding.imooc.com/class/chapter/286.html)
 
 4. Java8+
-- [字母哥课堂-恕我直言你可能真的不会java](https://www.bilibili.com/video/BV1sE411P7C1)
+- [恕我直言你可能真的不会java](https://www.bilibili.com/video/BV1sE411P7C1)
 - [Java9之模块系统](https://www.imooc.com/learn/997)
 - [JDK11&12新特性解读](https://www.imooc.com/learn/553)
 - [JAVA 函数式编程](https://www.imooc.com/learn/1284)
@@ -58,7 +55,6 @@
 - [动力节点-MyBatis从入门到精通](https://www.bilibili.com/video/BV185411s7Ry)
 - [通过自动回复机器人学Mybatis---基础版](https://www.imooc.com/learn/154)
 - [通过自动回复机器人学Mybatis---加强版](https://www.imooc.com/learn/260)
-- [Mybatis缓存详解](https://www.imooc.com/learn/1238)
 - [狂神说-MyBatisPlus通俗易懂](https://www.bilibili.com/video/BV17E411N7KN)
 - [MyBatisPlus入门](https://www.imooc.com/learn/1130)
 - [MyBatisPlus进阶](https://www.imooc.com/learn/1171)
