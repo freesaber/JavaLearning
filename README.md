@@ -11,8 +11,10 @@
 - [全方位入门git](https://www.imooc.com/learn/1278)
 
 2. 基础
+- [狂神说-二进制到汇编](https://www.bilibili.com/video/BV1ni4y1G7B9)
+- [狂神说-Linux最通俗易懂](https://www.bilibili.com/video/BV187411y7hF)
+- [狂神说-Java零基础学习](https://www.bilibili.com/video/BV12J41137hu)
 - [毕向东Java系列课程--dqug](https://pan.baidu.com/s/19d3KtKCJ1SZ5AidiAo267A)
-- [狂神说-Java零基础学习视频通俗易懂](https://www.bilibili.com/video/BV12J41137hu)
 - [动力节点-Java零基础视频教程](https://www.bilibili.com/video/BV1P7411V7nQ)
 - [博学谷-Java基础精讲](https://www.bilibili.com/video/BV1gE411o7eC)
 - [传智播客-Java基础篇](https://www.bilibili.com/video/BV1ha4y147NZ)
@@ -68,20 +70,18 @@
 - [模式的秘密---代理模式](https://www.imooc.com/learn/214)
 - [探秘Spring AOP](https://www.imooc.com/learn/869)
 - [Spring事务管理](https://www.imooc.com/learn/478)
+- [剑指Java自研框架，决胜Spring源码](https://coding.imooc.com/class/chapter/420.html)
 
 4. SpringMvc
 - [狂神说-SpringMVC版通俗易懂](https://www.bilibili.com/video/BV1aE41167Tu)
 - [动力节点-SpringMVC从入门到精通](https://www.bilibili.com/video/BV1sk4y167pD)
 - [SpringMVC拦截器](https://www.imooc.com/learn/498)
 - [手写MINI Spring MVC框架](https://www.imooc.com/learn/1203)
-
-5. 进阶
 - Java高并发秒杀API
   + [Java高并发秒杀API之业务分析与DAO层](https://www.imooc.com/learn/587)
   + [Java高并发秒杀API之Service层](https://www.imooc.com/learn/631)
   + [Java高并发秒杀API之web层](https://www.imooc.com/learn/630)
   + [Java高并发秒杀API之高并发优化](https://www.imooc.com/learn/632)
-- [剑指Java自研框架，决胜Spring源码](https://coding.imooc.com/class/chapter/420.html)
 
 6. MySql
 - [全面讲解MySQL架构设计](https://coding.imooc.com/class/chapter/49.html)
@@ -109,7 +109,6 @@
 - [Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解](https://coding.imooc.com/class/chapter/460.html)
 - [全方位深入解析最新版SpringBoot源码](https://coding.imooc.com/class/chapter/404.html)
 
-
 4. 实战
 - [SpringBoot企业微信点餐系统](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-sell)
 - [狂神说-SpringBoot项目实战：企业项目管理系统](https://www.bilibili.com/video/BV1b4411q7DX)
@@ -118,8 +117,6 @@
 
 ## 04-microservice
 1. Dubbo
-- [动力节点-Dubbo教程](https://www.bilibili.com/video/BV1Sk4y197eD)
-- [ZooKeeper分布式专题与Dubbo微服务入门](https://coding.imooc.com/class/201.html)
 - [自己动手实现RPC框架](https://www.imooc.com/learn/1158)
 - [应用Dubbo框架打造仿猫眼项目 理解微服务核心思想](https://coding.imooc.com/class/273.html)
 
@@ -128,6 +125,7 @@
 - [SpringCloud微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx-springcloud)
 - [SpringCloud + Vue 前后端分离 开发企业级在线视频课程系统](https://coding.imooc.com/class/chapter/416.html)
 - [Spring Cloud Alibaba微服务从入门到进阶](https://coding.imooc.com/class/chapter/358.html)
+- [全面的深入学习Skywalking](https://www.bilibili.com/video/BV1ZJ411s7Mn)
 
 3. MQ
 - [编程不良人-RabbitMQ整合SpringBoot2.x](https://www.bilibili.com/video/BV1dE411K7MG)
@@ -152,6 +150,7 @@
 - [Jenkins+Ansible+Gitlab自动化部署三剑客](https://coding.imooc.com/class/chapter/253.html)
 
 2. k8s
+- [尚硅谷-k8s教程由浅入深](https://www.bilibili.com/video/BV1GT4y1A756)
 - [k8s微服务容器化实践](https://coding.imooc.com/class/198.html)
 - [k8s生产级实践指南](https://coding.imooc.com/class/335.html)
 
@@ -165,6 +164,7 @@
 - [Spring Security开发安全的REST服务](https://coding.imooc.com/class/chapter/134.html)
 - [尚硅谷-SpringSecurity框架教程](https://www.bilibili.com/video/BV15a411A7kP)
 - [Java开发企业级权限管理系统](https://coding.imooc.com/class/chapter/149.html)
+- [Spring Security OAuth2.0认证授权](https://www.bilibili.com/video/BV14T4y1A7oz)
 
 4. 大数据
 - [HBase 存储原理剖析](https://www.imooc.com/learn/996)
