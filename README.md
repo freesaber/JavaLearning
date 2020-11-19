@@ -93,11 +93,7 @@
 - [SpringBoot构建电商基础秒杀项目](https://www.imooc.com/learn/1079)
 - [Ajax跨域完全讲解](https://www.imooc.com/learn/947)
 
-2. 缓存
-- [狂神说-Redis最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1S54y1R7SB)
-- [Redis从入门到高可用分布式实践](https://coding.imooc.com/class/chapter/151.html)
-
-3. 进阶
+2. 进阶
 - [SpringBoot2.0不容错过的新特性 WebFlux响应式编程](https://www.imooc.com/t/2674286)
 - [Java读源码之Netty深入剖析](https://coding.imooc.com/class/chapter/230.html)
 - [SpringBoot2.0深度实践之系列总览](http://www.imooc.com/learn/1058)
@@ -105,13 +101,13 @@
 - [Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解](https://coding.imooc.com/class/chapter/460.html)
 - [全方位深入解析最新版SpringBoot源码](https://coding.imooc.com/class/chapter/404.html)
 
-4. 实战
+3. 实战
 - [SpringBoot企业微信点餐系统](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-sell)
 - [狂神说-SpringBoot项目实战：企业项目管理系统](https://www.bilibili.com/video/BV1b4411q7DX)
 - [Java短视频小程序开发全栈式实战项目](https://coding.imooc.com/class/chapter/217.html)
 - [Java通用型支付+电商平台双系统实战](https://coding.imooc.com/class/chapter/392.html)
 
-## 04-microservice
+## 04-微服务
 1. Dubbo
 - [自己动手实现RPC框架](https://www.imooc.com/learn/1158)
 - [尚硅谷-Dubbo教程](https://www.bilibili.com/video/BV1ns411c7jV)
@@ -122,9 +118,42 @@
 - [尚硅谷周阳-Spring Cloud Alibaba微服务从入门到进阶](https://coding.imooc.com/class/chapter/358.html)
 - [SpringCloud微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx-springcloud)
 - [SpringCloud + Vue 前后端分离 开发企业级在线视频课程系统](https://coding.imooc.com/class/chapter/416.html)
-- [全面的深入学习Skywalking](https://www.bilibili.com/video/BV1ZJ411s7Mn)
 
-3. MQ
+4. 其他
+- [全面的深入学习Skywalking](https://www.bilibili.com/video/BV1ZJ411s7Mn)
+- [Java秒杀系统方案优化 高性能高并发实战](https://coding.imooc.com/class/chapter/168.html)
+- [分布式事务实践 解决数据一致性](https://coding.imooc.com/class/chapter/237.html)
+- [Nginx入门到实践](https://coding.imooc.com/class/chapter/121.html)
+
+## 05-DevOps
+1. Docker
+- [狂神说-Docker基础](https://www.bilibili.com/video/BV1og4y1q7M4)
+- [狂神说-Docker进阶](https://www.bilibili.com/video/BV1kv411q7Qc)
+- [Docker最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1sK4y1s7Cj)
+
+2. CICD
+- [用Jenkins自动化搭建测试环境](https://www.imooc.com/learn/1008)
+- [Crontab不知疲倦的时间表](https://www.imooc.com/learn/1009)
+- [Jenkins+Ansible+Gitlab自动化部署三剑客](https://coding.imooc.com/class/chapter/253.html)
+
+3. k8s
+- [尚硅谷-k8s教程由浅入深](https://www.bilibili.com/video/BV1GT4y1A756)
+- [k8s微服务容器化实践](https://coding.imooc.com/class/198.html)
+- [k8s生产级实践指南](https://coding.imooc.com/class/335.html)
+
+## 06-大数据
+- [HBase 存储原理剖析](https://www.imooc.com/learn/996)
+- [Hadoop基础及演练](https://www.imooc.com/learn/928)
+- [基于Storm构建实时热力分布项目实战](https://coding.imooc.com/class/chapter/172.html)
+- [学习Scala进击大数据Spark生态圈](https://coding.imooc.com/class/chapter/215.html)
+
+
+## 07-etc
+1.Redis
+- [狂神说-Redis最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1S54y1R7SB)
+- [Redis从入门到高可用分布式实践](https://coding.imooc.com/class/chapter/151.html)
+
+2. MQ
 - [编程不良人-RabbitMQ整合SpringBoot2.x](https://www.bilibili.com/video/BV1dE411K7MG)
 - [动力节点-RabbitMQ实战教程](https://www.bilibili.com/video/BV1Ap4y1D7tU)
 - [RabbitMQ消息中间件技术精讲](https://coding.imooc.com/class/chapter/262.html)
@@ -132,28 +161,7 @@
 - [RocketMQ核心技术精讲与高并发抗压实战](https://coding.imooc.com/class/chapter/292.html)
 - [Kafka多维度系统精讲](https://coding.imooc.com/class/chapter/434.html)
 
-4. 其他
-- [Java秒杀系统方案优化 高性能高并发实战](https://coding.imooc.com/class/chapter/168.html)
-- [分布式事务实践 解决数据一致性](https://coding.imooc.com/class/chapter/237.html)
-- [Nginx入门到实践](https://coding.imooc.com/class/chapter/121.html)
-
-## 05-cicd
-1. 基础
-- [狂神说-Docker基础](https://www.bilibili.com/video/BV1og4y1q7M4)
-- [狂神说-Docker进阶](https://www.bilibili.com/video/BV1kv411q7Qc)
-- [Docker最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1sK4y1s7Cj)
-- [用Jenkins自动化搭建测试环境](https://www.imooc.com/learn/1008)
-- [Crontab不知疲倦的时间表](https://www.imooc.com/learn/1009)
-- [Jenkins+Ansible+Gitlab自动化部署三剑客](https://coding.imooc.com/class/chapter/253.html)
-
-2. k8s
-- [尚硅谷-k8s教程由浅入深](https://www.bilibili.com/video/BV1GT4y1A756)
-- [k8s微服务容器化实践](https://coding.imooc.com/class/198.html)
-- [k8s生产级实践指南](https://coding.imooc.com/class/335.html)
-
-
-## 06-etc
-1. ES
+3. ES
 - [狂神说ElasticSearch7.6](https://www.bilibili.com/video/BV17a4y1x7zq)
 
 3. 权限
@@ -163,16 +171,10 @@
 - [Java开发企业级权限管理系统](https://coding.imooc.com/class/chapter/149.html)
 - [Spring Security OAuth2.0认证授权](https://www.bilibili.com/video/BV14T4y1A7oz)
 
-4. 大数据
-- [HBase 存储原理剖析](https://www.imooc.com/learn/996)
-- [Hadoop基础及演练](https://www.imooc.com/learn/928)
-- [基于Storm构建实时热力分布项目实战](https://coding.imooc.com/class/chapter/172.html)
-- [学习Scala进击大数据Spark生态圈](https://coding.imooc.com/class/chapter/215.html)
-
 5. Other
 - [动力节点-FastDFS教程](https://www.bilibili.com/video/BV1ta4y1v7Kw)
 - [狂神说-一小时掌握Swagger技术](https://www.bilibili.com/video/BV1Y441197Lw)
 
 
 ## 说明
-部分收费课程，都有网盘共享资源，不提供链接，可以通过吾爱破解、csdn、网盘搜索工具查找。
+部分收费课程，都有网盘共享资源，不提供链接，可以通过吾爱破解、csdn、网盘搜索工具查找。[思维导图](https://www.processon.com/view/link/5fb6647d1e085368771eb178)
