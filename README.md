@@ -149,7 +149,7 @@
 
 
 ## 07-etc
-1.Redis
+1. Redis
 - [狂神说-Redis最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1S54y1R7SB)
 - [Redis从入门到高可用分布式实践](https://coding.imooc.com/class/chapter/151.html)
 
