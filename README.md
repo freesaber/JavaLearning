@@ -119,9 +119,9 @@
 
 2. SpringCloud
 - [狂神说-SpringCloud最新教程IDEA版](https://www.bilibili.com/video/BV1jJ411S7xr)
+- [尚硅谷周阳-Spring Cloud Alibaba微服务从入门到进阶](https://coding.imooc.com/class/chapter/358.html)
 - [SpringCloud微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx-springcloud)
 - [SpringCloud + Vue 前后端分离 开发企业级在线视频课程系统](https://coding.imooc.com/class/chapter/416.html)
-- [Spring Cloud Alibaba微服务从入门到进阶](https://coding.imooc.com/class/chapter/358.html)
 - [全面的深入学习Skywalking](https://www.bilibili.com/video/BV1ZJ411s7Mn)
 
 3. MQ
