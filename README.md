@@ -164,7 +164,7 @@
 3. ES
 - [狂神说ElasticSearch7.6](https://www.bilibili.com/video/BV17a4y1x7zq)
 
-3. 权限
+4. 权限
 - [Shiro安全框架入门](https://www.imooc.com/learn/977)
 - [Spring Security开发安全的REST服务](https://coding.imooc.com/class/chapter/134.html)
 - [尚硅谷-SpringSecurity框架教程](https://www.bilibili.com/video/BV15a411A7kP)
