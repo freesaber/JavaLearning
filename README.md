@@ -154,10 +154,8 @@
 - [Redis从入门到高可用分布式实践](https://coding.imooc.com/class/chapter/151.html)
 
 2. MQ
-- [编程不良人-RabbitMQ整合SpringBoot2.x](https://www.bilibili.com/video/BV1dE411K7MG)
-- [动力节点-RabbitMQ实战教程](https://www.bilibili.com/video/BV1Ap4y1D7tU)
-- [RabbitMQ消息中间件技术精讲](https://coding.imooc.com/class/chapter/262.html)
 - [RabbitMQ精讲，项目驱动落地，分布式事务拔高](https://coding.imooc.com/class/chapter/461.html)
+- [RabbitMQ消息中间件技术精讲](https://coding.imooc.com/class/chapter/262.html)
 - [RocketMQ核心技术精讲与高并发抗压实战](https://coding.imooc.com/class/chapter/292.html)
 - [Kafka多维度系统精讲](https://coding.imooc.com/class/chapter/434.html)
 
