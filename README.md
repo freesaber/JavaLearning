@@ -66,7 +66,6 @@
 - [模式的秘密---代理模式](https://www.imooc.com/learn/214)
 - [探秘Spring AOP](https://www.imooc.com/learn/869)
 - [Spring事务管理](https://www.imooc.com/learn/478)
-- [剑指Java自研框架，决胜Spring源码](https://coding.imooc.com/class/chapter/420.html)
 
 4. SpringMvc
 - [狂神说-SpringMVC版通俗易懂](https://www.bilibili.com/video/BV1aE41167Tu)
