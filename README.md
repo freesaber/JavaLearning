@@ -110,6 +110,7 @@
 - [狂神说-SpringCloud最新教程IDEA版](https://www.bilibili.com/video/BV1jJ411S7xr)
 - [SpringCloud微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx-springcloud)
 - [SpringCloud + Vue 前后端分离 开发企业级在线视频课程系统](https://coding.imooc.com/class/chapter/416.html)
+- [Spring cloud微服务安全实战](https://coding.imooc.com/class/chapter/379.html)
 
 2. Spring Cloud Alibaba
 - [尚硅谷周阳-Spring Cloud Alibaba微服务从入门到进阶](https://coding.imooc.com/class/chapter/358.html)
