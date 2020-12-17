@@ -93,12 +93,11 @@
 - [Ajax跨域完全讲解](https://www.imooc.com/learn/947)
 
 2. 进阶
-- [SpringBoot2.0不容错过的新特性 WebFlux响应式编程](https://www.imooc.com/t/2674286)
-- [Java读源码之Netty深入剖析](https://coding.imooc.com/class/chapter/230.html)
 - [SpringBoot2.0深度实践之系列总览](http://www.imooc.com/learn/1058)
 - [SpringBoot2.0深度实践之核心技术篇](https://coding.imooc.com/class/252.html)
-- [Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解](https://coding.imooc.com/class/chapter/460.html)
 - [全方位深入解析最新版SpringBoot源码](https://coding.imooc.com/class/chapter/404.html)
+- [Java读源码之Netty深入剖析](https://coding.imooc.com/class/chapter/230.html)
+- [Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解](https://coding.imooc.com/class/chapter/460.html)
 
 3. 实战
 - [SpringBoot企业微信点餐系统](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-sell)
