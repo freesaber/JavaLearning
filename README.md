@@ -159,10 +159,8 @@
 - [狂神说ElasticSearch7.6](https://www.bilibili.com/video/BV17a4y1x7zq)
 
 4. 权限
-- [Shiro安全框架入门](https://www.imooc.com/learn/977)
+- [狂神说SpringSecurity](https://www.bilibili.com/video/BV1KE411i7bC)
 - [Spring Security开发安全的REST服务](https://coding.imooc.com/class/chapter/134.html)
-- [尚硅谷-SpringSecurity框架教程](https://www.bilibili.com/video/BV15a411A7kP)
-- [Java开发企业级权限管理系统](https://coding.imooc.com/class/chapter/149.html)
 - [Spring Security OAuth2.0认证授权](https://www.bilibili.com/video/BV14T4y1A7oz)
 
 5. Other
