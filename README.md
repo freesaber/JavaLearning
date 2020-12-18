@@ -11,8 +11,6 @@
 - [全方位入门git](https://www.imooc.com/learn/1278)
 
 2. 基础
-- [狂神说-二进制到汇编](https://www.bilibili.com/video/BV1ni4y1G7B9)
-- [狂神说-Linux最通俗易懂](https://www.bilibili.com/video/BV187411y7hF)
 - [狂神说-Java零基础学习](https://www.bilibili.com/video/BV12J41137hu)
 - [毕向东Java系列课程--dqug](https://pan.baidu.com/s/19d3KtKCJ1SZ5AidiAo267A)
 - [动力节点-Java零基础视频教程](https://www.bilibili.com/video/BV1P7411V7nQ)
@@ -23,21 +21,25 @@
 - [二进制与Java中的基本数据类型](https://www.imooc.com/learn/1223)
 - [Java IO流](https://www.imooc.com/learn/123)
 
-3. 进阶
+3. 多线程和jvm
 - [狂神说-多线程详解](https://www.bilibili.com/video/BV1V4411p7EF)
 - [细说多线程之Thread VS Runnable](https://www.imooc.com/learn/312)
 - [细说Java多线程之内存可见性](https://www.imooc.com/learn/352)
 - [ThreadLocal](https://www.imooc.com/learn/1217)
+- [Java并发编程入门与高并发面试](https://coding.imooc.com/class/chapter/195.html)
 - [狂神说-JVM快速入门篇](https://www.bilibili.com/video/BV1iJ411d7jS)
 - [尚硅谷-宋红康JVM教程](https://www.bilibili.com/video/BV1PJ411n7xZ)
-- [Java Socket应用](https://www.imooc.com/learn/161)
-- [程序员三大浪漫--编译原理+操作系统+图形学](https://coding.imooc.com/class/chapter/432.html)
 - [理论+实战 构建完整JVM知识体系](https://coding.imooc.com/class/chapter/429.html)
-- [Java并发编程入门与高并发面试](https://coding.imooc.com/class/chapter/195.html)
+
+4. linux和网络
+- [狂神说-二进制到汇编](https://www.bilibili.com/video/BV1ni4y1G7B9)
+- [狂神说-Linux最通俗易懂](https://www.bilibili.com/video/BV187411y7hF)
+- [程序员三大浪漫--编译原理+操作系统+图形学](https://coding.imooc.com/class/chapter/432.html)
+- [Java Socket应用](https://www.imooc.com/learn/161)
 - [Socket网络编程进阶与实战](https://coding.imooc.com/class/chapter/286.html)
 - [Java读源码之Netty深入剖析](https://coding.imooc.com/class/chapter/230.html)
 
-4. Java8+
+5. Java8+
 - [恕我直言你可能真的不会java](https://www.bilibili.com/video/BV1sE411P7C1)
 - [Java9之模块系统](https://www.imooc.com/learn/997)
 - [JDK11&12新特性解读](https://www.imooc.com/learn/553)
