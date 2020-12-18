@@ -110,10 +110,10 @@
 - [狂神说-SpringCloud最新教程IDEA版](https://www.bilibili.com/video/BV1jJ411S7xr)
 - [SpringCloud微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx-springcloud)
 - [SpringCloud + Vue 前后端分离 开发企业级在线视频课程系统](https://coding.imooc.com/class/chapter/416.html)
-- [Spring cloud微服务安全实战](https://coding.imooc.com/class/chapter/379.html)
 
 2. Spring Cloud Alibaba
 - [尚硅谷周阳-Spring Cloud Alibaba微服务从入门到进阶](https://coding.imooc.com/class/chapter/358.html)
+- [SpringCloud微服务安全实战](https://coding.imooc.com/class/chapter/379.html)
 
 4. 其他
 - [全面的深入学习Skywalking](https://www.bilibili.com/video/BV1ZJ411s7Mn)
@@ -145,7 +145,7 @@
 
 
 ## 07-etc
-1. Redis
+1. NoSql
 - [狂神说-Redis最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1S54y1R7SB)
 - [Redis从入门到高可用分布式实践](https://coding.imooc.com/class/chapter/151.html)
 
