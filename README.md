@@ -35,6 +35,7 @@
 - [理论+实战 构建完整JVM知识体系](https://coding.imooc.com/class/chapter/429.html)
 - [Java并发编程入门与高并发面试](https://coding.imooc.com/class/chapter/195.html)
 - [Socket网络编程进阶与实战](https://coding.imooc.com/class/chapter/286.html)
+- [Java读源码之Netty深入剖析](https://coding.imooc.com/class/chapter/230.html)
 
 4. Java8+
 - [恕我直言你可能真的不会java](https://www.bilibili.com/video/BV1sE411P7C1)
@@ -81,6 +82,8 @@
 5. MySql
 - [全面讲解MySQL架构设计](https://coding.imooc.com/class/chapter/49.html)
 
+6. 其他
+- [Nginx入门到实践](https://coding.imooc.com/class/chapter/121.html)
 
 ## 03-springboot
 1. 基础
@@ -96,7 +99,6 @@
 - [SpringBoot2.0深度实践之系列总览](http://www.imooc.com/learn/1058)
 - [SpringBoot2.0深度实践之核心技术篇](https://coding.imooc.com/class/252.html)
 - [全方位深入解析最新版SpringBoot源码](https://coding.imooc.com/class/chapter/404.html)
-- [Java读源码之Netty深入剖析](https://coding.imooc.com/class/chapter/230.html)
 - [Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解](https://coding.imooc.com/class/chapter/460.html)
 
 3. 实战
@@ -114,13 +116,11 @@
 
 2. Spring Cloud Alibaba
 - [尚硅谷周阳-Spring Cloud Alibaba微服务从入门到进阶](https://coding.imooc.com/class/chapter/358.html)
-- [Spring Cloud微服务安全实战](https://coding.imooc.com/class/chapter/379.html)
 
-4. 其他
+3. 其他
 - [全面的深入学习Skywalking](https://www.bilibili.com/video/BV1ZJ411s7Mn)
 - [Java秒杀系统方案优化 高性能高并发实战](https://coding.imooc.com/class/chapter/168.html)
 - [分布式事务实践 解决数据一致性](https://coding.imooc.com/class/chapter/237.html)
-- [Nginx入门到实践](https://coding.imooc.com/class/chapter/121.html)
 
 ## 05-DevOps
 1. Docker
@@ -149,6 +149,7 @@
 1. NoSql
 - [狂神说-Redis最新超详细版教程通俗易懂](https://www.bilibili.com/video/BV1S54y1R7SB)
 - [Redis从入门到高可用分布式实践](https://coding.imooc.com/class/chapter/151.html)
+- [动力节点-FastDFS教程](https://www.bilibili.com/video/BV1ta4y1v7Kw)
 
 2. MQ
 - [RabbitMQ精讲，项目驱动落地，分布式事务拔高](https://coding.imooc.com/class/chapter/461.html)
@@ -162,10 +163,10 @@
 4. 权限
 - [狂神说SpringSecurity](https://www.bilibili.com/video/BV1KE411i7bC)
 - [Spring Security开发安全的REST服务](https://coding.imooc.com/class/chapter/134.html)
+- [Spring Cloud微服务安全实战](https://coding.imooc.com/class/chapter/379.html)
 - [Spring Security OAuth2.0认证授权](https://www.bilibili.com/video/BV14T4y1A7oz)
 
-5. Other
-- [动力节点-FastDFS教程](https://www.bilibili.com/video/BV1ta4y1v7Kw)
+5. 其他
 - [狂神说-一小时掌握Swagger技术](https://www.bilibili.com/video/BV1Y441197Lw)
 
 
