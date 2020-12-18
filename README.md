@@ -107,13 +107,14 @@
 
 ## 04-微服务
 1. Spring Cloud Netfilix
-- [狂神说-SpringCloud最新教程IDEA版](https://www.bilibili.com/video/BV1jJ411S7xr)
-- [SpringCloud微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx-springcloud)
-- [SpringCloud + Vue 前后端分离 开发企业级在线视频课程系统](https://coding.imooc.com/class/chapter/416.html)
+- [狂神说-Spring Cloud最新教程IDEA版](https://www.bilibili.com/video/BV1jJ411S7xr)
+- [Spring Cloud微服务实战](https://github.com/freesaber/JavaLearning/tree/master/05-microservice/liaosx-springcloud)
+- [Spring Cloud + Vue 前后端分离 开发企业级在线视频课程系统](https://coding.imooc.com/class/chapter/416.html)
+- [Spring Cloud分布式微服务实战 养成应对复杂业务的综合技术能力](https://coding.imooc.com/class/chapter/456.html)
 
 2. Spring Cloud Alibaba
 - [尚硅谷周阳-Spring Cloud Alibaba微服务从入门到进阶](https://coding.imooc.com/class/chapter/358.html)
-- [SpringCloud微服务安全实战](https://coding.imooc.com/class/chapter/379.html)
+- [Spring Cloud微服务安全实战](https://coding.imooc.com/class/chapter/379.html)
 
 4. 其他
 - [全面的深入学习Skywalking](https://www.bilibili.com/video/BV1ZJ411s7Mn)
