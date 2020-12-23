@@ -136,7 +136,6 @@
 - [Jenkins+Ansible+Gitlab自动化部署三剑客](https://coding.imooc.com/class/chapter/253.html)
 
 3. k8s
-- [尚硅谷-k8s教程由浅入深](https://www.bilibili.com/video/BV1GT4y1A756)
 - [k8s微服务容器化实践](https://coding.imooc.com/class/198.html)
 - [k8s生产级实践指南](https://coding.imooc.com/class/335.html)
 
@@ -163,7 +162,6 @@
 - [狂神说ElasticSearch7.6](https://www.bilibili.com/video/BV17a4y1x7zq)
 
 4. 权限
-- [狂神说SpringSecurity](https://www.bilibili.com/video/BV1KE411i7bC)
 - [Spring Security开发安全的REST服务](https://coding.imooc.com/class/chapter/134.html)
 - [Spring Cloud微服务安全实战](https://coding.imooc.com/class/chapter/379.html)
 - [Spring Security OAuth2.0认证授权](https://www.bilibili.com/video/BV14T4y1A7oz)
