@@ -34,6 +34,7 @@
 4. linux和网络
 - [狂神说-二进制到汇编](https://www.bilibili.com/video/BV1ni4y1G7B9)
 - [狂神说-Linux最通俗易懂](https://www.bilibili.com/video/BV187411y7hF)
+- [Linux速成班](https://www.imooc.com/learn/1291)
 - [程序员三大浪漫--编译原理+操作系统+图形学](https://coding.imooc.com/class/chapter/432.html)
 - [Java Socket应用](https://www.imooc.com/learn/161)
 - [Socket网络编程进阶与实战](https://coding.imooc.com/class/chapter/286.html)
@@ -83,6 +84,7 @@
 
 5. MySql
 - [全面讲解MySQL架构设计](https://coding.imooc.com/class/chapter/49.html)
+- [MySQL8.0零基础入门](https://www.imooc.com/learn/1281)
 
 6. 其他
 - [Nginx入门到实践](https://coding.imooc.com/class/chapter/121.html)
@@ -123,6 +125,7 @@
 - [全面的深入学习Skywalking](https://www.bilibili.com/video/BV1ZJ411s7Mn)
 - [Java秒杀系统方案优化 高性能高并发实战](https://coding.imooc.com/class/chapter/168.html)
 - [分布式事务实践 解决数据一致性](https://coding.imooc.com/class/chapter/237.html)
+- [Prometheus实践](https://www.imooc.com/learn/1231)
 
 ## 05-DevOps
 1. Docker
