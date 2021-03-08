@@ -137,6 +137,7 @@
 - [用Jenkins自动化搭建测试环境](https://www.imooc.com/learn/1008)
 - [Crontab不知疲倦的时间表](https://www.imooc.com/learn/1009)
 - [Jenkins+Ansible+Gitlab自动化部署三剑客](https://coding.imooc.com/class/chapter/253.html)
+- [自动化部署Jenkins从环境配置到项目开发](https://www.bilibili.com/video/BV1kJ411p7mV)
 
 3. k8s
 - [k8s微服务容器化实践](https://coding.imooc.com/class/198.html)
