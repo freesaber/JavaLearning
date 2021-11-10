@@ -126,6 +126,7 @@
 - [Java秒杀系统方案优化 高性能高并发实战](https://coding.imooc.com/class/chapter/168.html)
 - [分布式事务实践 解决数据一致性](https://coding.imooc.com/class/chapter/237.html)
 - [Prometheus实践](https://www.imooc.com/learn/1231)
+- [轻松入门Apollo分布式配置中心-服务中间件](https://www.bilibili.com/video/BV1eE41187sS)
 
 ## 05-DevOps
 1. Docker
@@ -140,6 +141,7 @@
 - [自动化部署Jenkins从环境配置到项目开发](https://www.bilibili.com/video/BV1kJ411p7mV)
 
 3. k8s
+- [Kubernetes基础：开启云原生之门](https://www.imooc.com/learn/978)
 - [k8s微服务容器化实践](https://coding.imooc.com/class/198.html)
 - [k8s生产级实践指南](https://coding.imooc.com/class/335.html)
 
@@ -166,6 +168,8 @@
 - [狂神说ElasticSearch7.6](https://www.bilibili.com/video/BV17a4y1x7zq)
 
 4. 权限
+- [OAuth2.0协议](https://www.imooc.com/learn/557)
+- [微信授权登录](https://www.imooc.com/learn/713)
 - [Spring Security开发安全的REST服务](https://coding.imooc.com/class/chapter/134.html)
 - [Spring Cloud微服务安全实战](https://coding.imooc.com/class/chapter/379.html)
 - [Spring Security OAuth2.0认证授权](https://www.bilibili.com/video/BV14T4y1A7oz)
