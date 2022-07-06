@@ -59,7 +59,7 @@
 - [通过自动回复机器人学Mybatis---加强版](https://www.imooc.com/learn/260)
 - [狂神说-Mybatis版通俗易懂](https://www.bilibili.com/video/BV1NE411Q7Nx)
 - [狂神说-MyBatisPlus通俗易懂](https://www.bilibili.com/video/BV17E411N7KN)
-- [MyBatisPlus入门](https://www.imooc.com/learn/1130)
+- [MyBatisPlus入门](https://github.com/freesaber/mp_start)
 - [MyBatisPlus进阶](https://www.imooc.com/learn/1171)
 
 3. Spring
