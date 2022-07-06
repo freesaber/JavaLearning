@@ -139,7 +139,7 @@
 - [Jenkins+Ansible+Gitlab自动化部署三剑客](https://coding.imooc.com/class/chapter/253.html)
 - [自动化部署Jenkins从环境配置到项目开发](https://www.bilibili.com/video/BV1kJ411p7mV)
 - [Harbor](https://www.bilibili.com/video/BV19r4y1U7Xx)
-- [gitlab-runner](https://www.bilibili.com/video/BV1q34y1Z7Dk)
+- [gitlab-runner](https://www.bilibili.com/video/av460144988)
 
 3. k8s
 - [Kubernetes基础：开启云原生之门](https://www.imooc.com/learn/978)
