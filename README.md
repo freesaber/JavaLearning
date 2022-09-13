@@ -60,7 +60,7 @@
 - [狂神说-Mybatis版通俗易懂](https://www.bilibili.com/video/BV1NE411Q7Nx)
 - [狂神说-MyBatisPlus通俗易懂](https://www.bilibili.com/video/BV17E411N7KN)
 - [MyBatisPlus入门](https://github.com/freesaber/mp_start)
-- [MyBatisPlus进阶](https://www.imooc.com/learn/1171)
+- [MyBatisPlus进阶](https://github.com/freesaber/mp_high)
 
 3. Spring
 - [Spring框架小白的蜕变](https://www.imooc.com/learn/1108)
