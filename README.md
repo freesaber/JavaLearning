@@ -174,6 +174,7 @@
 - [Spring Security开发安全的REST服务](https://coding.imooc.com/class/chapter/134.html)
 - [Spring Cloud微服务安全实战](https://coding.imooc.com/class/chapter/379.html)
 - [Spring Security OAuth2.0认证授权](https://www.bilibili.com/video/BV14T4y1A7oz)
+- [SpringSecurity-Social-OAuth2社交登录接口授权鉴权](https://www.bilibili.com/video/BV16J41127jq)
 
 5. 其他
 - [狂神说-一小时掌握Swagger技术](https://www.bilibili.com/video/BV1Y441197Lw)
