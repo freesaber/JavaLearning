@@ -45,6 +45,7 @@
 - [Java9之模块系统](https://www.imooc.com/learn/997)
 - [JDK11&12新特性解读](https://www.imooc.com/learn/553)
 - [JAVA 函数式编程](https://www.imooc.com/learn/1284)
+- [java8函数式编程(Lambda表达式，Optional，Stream流)从入门到精通](https://www.bilibili.com/video/BV1Gh41187uR)
 
 ## 02-ssm
 1. 基础
