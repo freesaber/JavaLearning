@@ -41,7 +41,7 @@
 - [Java读源码之Netty深入剖析](https://coding.imooc.com/class/chapter/230.html)
 
 5. Java8+
-- [恕我直言你可能真的不会java](https://www.bilibili.com/video/BV1sE411P7C1)
+- [恕我直言你可能真的不会java](https://github.com/freesaber/crazyjava)
 - [Java9之模块系统](https://www.imooc.com/learn/997)
 - [JDK11&12新特性解读](https://www.imooc.com/learn/553)
 - [JAVA 函数式编程](https://www.imooc.com/learn/1284)
