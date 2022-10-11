@@ -161,6 +161,7 @@
 - [动力节点-FastDFS教程](https://www.bilibili.com/video/BV1ta4y1v7Kw)
 
 2. MQ
+- [RabbitMQ消息中间件极速入门与实战](https://www.imooc.com/learn/1042)
 - [RabbitMQ精讲，项目驱动落地，分布式事务拔高](https://coding.imooc.com/class/chapter/461.html)
 - [RabbitMQ消息中间件技术精讲](https://coding.imooc.com/class/chapter/262.html)
 - [RocketMQ核心技术精讲与高并发抗压实战](https://coding.imooc.com/class/chapter/292.html)
