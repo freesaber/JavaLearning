@@ -164,7 +164,7 @@
 - [RabbitMQ消息中间件极速入门与实战](https://www.imooc.com/learn/1042)
 - [RabbitMQ精讲，项目驱动落地，分布式事务拔高](https://coding.imooc.com/class/chapter/461.html)
 - [RabbitMQ消息中间件技术精讲](https://coding.imooc.com/class/chapter/262.html)
-- [RocketMQ核心技术精讲与高并发抗压实战](https://coding.imooc.com/class/chapter/292.html)
+- [RocketMQ核心技术精讲与高并发抗压实战](https://github.com/freesaber/rocketmq-bfxy)
 - [Kafka多维度系统精讲](https://coding.imooc.com/class/chapter/434.html)
 
 3. ES
