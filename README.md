@@ -91,8 +91,6 @@
 
 ## 03-springboot
 1. 基础
-- [动力节点-SpringBoot教程](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/bjpowernode-springboot-project)
-- [狂神说-SpringBoot通俗易懂](https://www.bilibili.com/video/BV1PE411i7CV)
 - [2小时SpringBoot红包程序](https://coding.imooc.com/learn/list/328.html)
 - [SpringBoot进阶之Web进阶](https://www.imooc.com/learn/810)
 
