@@ -93,11 +93,8 @@
 1. 基础
 - [动力节点-SpringBoot教程](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/bjpowernode-springboot-project)
 - [狂神说-SpringBoot通俗易懂](https://www.bilibili.com/video/BV1PE411i7CV)
-- [SpringBoot+MyBatis搭建迷你小程序](https://www.imooc.com/learn/945)
-- [2小时SpringBoot红包程序](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-luckymoney)
-- [SpringBoot进阶之Web进阶](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-girl)
-- [SpringBoot构建电商基础秒杀项目](https://www.imooc.com/learn/1079)
-- [Ajax跨域完全讲解](https://www.imooc.com/learn/947)
+- [2小时SpringBoot红包程序](https://coding.imooc.com/learn/list/328.html)
+- [SpringBoot进阶之Web进阶](https://www.imooc.com/learn/810)
 
 2. 进阶
 - [SpringBoot2.0深度实践之系列总览](http://www.imooc.com/learn/1058)
@@ -106,7 +103,7 @@
 - [Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解](https://coding.imooc.com/class/chapter/460.html)
 
 3. 实战
-- [SpringBoot企业微信点餐系统](https://github.com/freesaber/JavaLearning/tree/master/04-springboot/liaosx-sell)
+- [SpringBoot企业微信点餐系统](https://coding.imooc.com/class/117.html)
 - [狂神说-SpringBoot项目实战：企业项目管理系统](https://www.bilibili.com/video/BV1b4411q7DX)
 - [Java短视频小程序开发全栈式实战项目](https://coding.imooc.com/class/chapter/217.html)
 - [Java通用型支付+电商平台双系统实战](https://coding.imooc.com/class/chapter/392.html)
