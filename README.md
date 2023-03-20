@@ -98,11 +98,10 @@
 - [SpringBoot企业微信点餐系统](https://coding.imooc.com/class/chapter/404.html)
 - [SpringBoot2.0深度实践之系列总览](http://www.imooc.com/learn/1058)
 - [SpringBoot2.0深度实践之核心技术篇](https://coding.imooc.com/class/252.html)
-- [全方位深入解析最新版SpringBoot源码](https://coding.imooc.com/class/chapter/404.html)
+- [图解+仿写 易学好懂的SpringBoot源码课](https://github.com/freesaber/sb2)
 - [Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解](https://coding.imooc.com/class/chapter/460.html)
 
 3. 实战
-- [图解+仿写 易学好懂的SpringBoot源码课](https://github.com/freesaber/sb2)
 - [狂神说-SpringBoot项目实战：企业项目管理系统](https://www.bilibili.com/video/BV1b4411q7DX)
 - [Java短视频小程序开发全栈式实战项目](https://coding.imooc.com/class/chapter/217.html)
 - [Java通用型支付+电商平台双系统实战](https://coding.imooc.com/class/chapter/392.html)
